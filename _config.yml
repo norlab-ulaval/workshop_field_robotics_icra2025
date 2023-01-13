@@ -1,5 +1,6 @@
 theme: jekyll-theme-minimal
 title: Journée de la robotique ULaval
 show_downloads: false
+logo: /_images/ULaval_H_C.png
 github:
   is_project_page: false
