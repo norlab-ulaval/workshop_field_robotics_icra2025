@@ -1,4 +1,6 @@
-# Visite des installations 
+# Horaire
+
+## Visite des installations 
 
 - __Inscription__ : sur invitation seulement
 - __Quand__ : le matin du vendredi 27 janvier 2023
@@ -14,7 +16,7 @@
 | |➔ Atelier du [Laboratoire d'ingénierie de la Réadaptation (IngRéadaptULaval)](https://www.ingreadaptulaval.ca/)|
 | |➔ Atelier du club [Véhicule Autonome (VAUL)](https://vaul.fsg.ulaval.ca/)|
 
-# Présentations et échanges
+## Présentations et échanges
 
 - __Inscription__ : formulaire (URL à venir). L'inscription se termine le 24 jan. 2023
 - __Quand__ : le matin et après-midi du vendredi 27 janvier 2023
