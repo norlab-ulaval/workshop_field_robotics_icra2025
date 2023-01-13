@@ -1,13 +1,29 @@
-<img width="80" alt="image" src="https://user-images.githubusercontent.com/502089/212218428-9a6f87bf-b189-43e9-a4b9-fde9ccd761f2.png">
+# Visite des installations 
 
-- Vendredi 27 janvier 2023
-- Local PLT-2700, Université Laval
+- __Inscription__ : sur invitation seulement
+- __Quand__ : le matin du vendredi 27 janvier 2023
+- __Où__ : Local PLT-3370, Université Laval
+
 
 |Heure|Activité|
 |:----:|:----|
-|08h30|Accueil des membres|
-|08h40|Visite des laboratoires (réservé aux membres)|
-|10h20|Pause-café et accueil général|
+|08h30|Accueil des membres au PLT-3370 (réservé aux invités)|
+|08h40|Visite des laboratoires (réservé aux invités)|
+| |➔ Laboratoires et ateliers du [Laboratoire de robotique](https://robot.gmc.ulaval.ca/accueil)|
+| |➔ Laboratoires et ateliers du [Laboratoire de robotique boréale (Norlab)](https://norlab.ulaval.ca/accueil/))|
+| |➔ Atelier du [Laboratoire d'ingénierie de la Réadaptation (IngRéadaptULaval)](https://www.ingreadaptulaval.ca/)|
+| |➔ Atelier du club [Véhicule Autonome (VAUL)](https://vaul.fsg.ulaval.ca/)|
+
+# Présentations et échanges
+
+- __Inscription__ : formulaire (URL à venir). L'inscription se termine le 24 jan. 2023
+- __Quand__ : le matin et après-midi du vendredi 27 janvier 2023
+- __Où__ : Local PLT-2700, Université Laval
+
+
+|Heure|Activité|
+|:----:|:----|
+|10h20|Pause-café et accueil général au PLT-2700|
 |10h45|Mot de bienvenue|
 |11h00|Présentations rétrospectives #1|
 | |➔ Navigation autonome à grande échelle dans les forêts subarctiques : défis à venir et leçons apprises, par Dominic Baril|
@@ -55,6 +71,11 @@
 |16h30|Clôture de l’événement|
 |17h00|Réseautage au [Pub Universitaire](http://www.pubuniversitaire.com/)|
 
-<img width="101" alt="image" src="https://user-images.githubusercontent.com/502089/212216717-f4234e9d-b9f5-4fba-8ec0-8ed343cdce1f.png">
-<img width="120" alt="image" src="https://user-images.githubusercontent.com/502089/212216729-f2bdbd09-a5e9-4978-a2ae-ec20960e9d83.png">
-<img width="114" alt="image" src="https://user-images.githubusercontent.com/502089/212216747-2dd012c4-ed9a-4abd-89a4-204df220b505.png">
+L'organisation de cette activité est supporté par :
+
+[<img width="101" alt="image" src="https://user-images.githubusercontent.com/502089/212216717-f4234e9d-b9f5-4fba-8ec0-8ed343cdce1f.png">](https://robot.gmc.ulaval.ca/accueil)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[<img width="120" alt="image" src="https://user-images.githubusercontent.com/502089/212216729-f2bdbd09-a5e9-4978-a2ae-ec20960e9d83.png">](https://norlab.ulaval.ca/accueil/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[<img width="114" alt="image" src="https://user-images.githubusercontent.com/502089/212216747-2dd012c4-ed9a-4abd-89a4-204df220b505.png">](https://cervim.ulaval.ca/![image](https://user-images.githubusercontent.com/502089/212346852-9bf621f5-e2f1-4ac2-8f00-7bc1aa46cc0f.png)
+)
