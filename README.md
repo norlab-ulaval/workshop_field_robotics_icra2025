@@ -55,3 +55,7 @@ Local PLT-2700, Université Laval
 |16 h 05|Mot de la fin|
 |16 h 30|Clôture de l’événement|
 |17 h 00|Réseautage au [Pub Universitaire](http://www.pubuniversitaire.com/)|
+
+<img width="101" alt="image" src="https://user-images.githubusercontent.com/502089/212216717-f4234e9d-b9f5-4fba-8ec0-8ed343cdce1f.png">
+<img width="120" alt="image" src="https://user-images.githubusercontent.com/502089/212216729-f2bdbd09-a5e9-4978-a2ae-ec20960e9d83.png">
+<img width="114" alt="image" src="https://user-images.githubusercontent.com/502089/212216747-2dd012c4-ed9a-4abd-89a4-204df220b505.png">
