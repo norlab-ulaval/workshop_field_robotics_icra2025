@@ -1,7 +1,7 @@
+<img width="80" alt="image" src="https://user-images.githubusercontent.com/502089/212218428-9a6f87bf-b189-43e9-a4b9-fde9ccd761f2.png">
 
-Vendredi 27 janvier 2023
-
-Local PLT-2700, Université Laval
+- Vendredi 27 janvier 2023
+- Local PLT-2700, Université Laval
 
 |Heure|Activité|
 |:----:|:----|
