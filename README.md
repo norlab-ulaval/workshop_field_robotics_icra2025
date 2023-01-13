@@ -12,7 +12,7 @@
 |08h30|Accueil des membres au PLT-3370 (réservé aux invités)|
 |08h40|Visite des laboratoires (réservé aux invités)|
 | |➔ Laboratoires et ateliers du [Laboratoire de robotique](https://robot.gmc.ulaval.ca/accueil)|
-| |➔ Laboratoires et ateliers du [Laboratoire de robotique boréale (Norlab)](https://norlab.ulaval.ca/accueil/))|
+| |➔ Laboratoires et ateliers du [Laboratoire de robotique boréale (Norlab)](https://norlab.ulaval.ca/accueil/)|
 | |➔ Atelier du [Laboratoire d'ingénierie de la Réadaptation (IngRéadaptULaval)](https://www.ingreadaptulaval.ca/)|
 | |➔ Atelier du club [Véhicule Autonome (VAUL)](https://vaul.fsg.ulaval.ca/)|
 
@@ -34,7 +34,7 @@
 | |➔ Un robot sous-marin pour la cartographie géomorphologique des fonds marins, par Patrick Lajeunesse|
 |11h25|Présentations rétrospectives #2|
 | |➔ Conception et prototypage d'un robot cinématiquement redondant SCARA parallèle collaboratif à rotation illimitée et avec préhenseur contrôlé à la base, par Mario Philip Lapierre|
-| |➔ Recalage de nuages de points robuste aux mouvements extrêmes, par Simon-Pierre Deschênes|
+| |➔ Recalage de nuages de points robustes aux mouvements extrêmes, par Simon-Pierre Deschênes|
 | |➔ Préhension et manipulation en environnements encombrés, par Jérémy Begey|
 | |➔ Un robot parallèle à câbles offrant la préhension, par Patrice Lambert|
 |11h50|Présentations rétrospectives #3|
@@ -65,7 +65,7 @@
 | |➔ La saisie automatique d'objets difficiles, par Nassim Benmesbah|
 | |➔ Analysis and Design of a Novel (6+3)-DOF Kinematically Redundant Parallel Robot, par Zhou Zhou|
 |15h40|Présentations prospectives #3|
-| |➔ Synthèse cinématique et optimisation d’un robot parallèle cinématiquement redondant à (6+2) degrés de liberté pour l’interaction physique humain robot, par Joshua Flight|
+| |➔ Synthèse cinématique et optimisation d’un robot parallèle cinématiquement redondant à (6+2) degrés de liberté pour l’interaction physique-humain robot, par Joshua Flight|
 | |➔ Détection d'objets dans les nuages de points basée sur les masques, par William Guimont-Martin|
 | |➔ Synthèse et prototypage d’un système robotique pour le parachèvement de pièces métalliques complexes, par Pierre-Luc Beaulieu|
 | |➔ Élaboration d’une méthode de détection et de caractérisation des occlusions présentes dans les nuages de points massifs résidentiels à l’aide de l’apprentissage profond, par William Albert|
