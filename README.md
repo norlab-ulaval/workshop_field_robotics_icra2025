@@ -78,4 +78,3 @@ L'organisation de cette activité est supporté par :
 [<img width="120" alt="image" src="https://user-images.githubusercontent.com/502089/212216729-f2bdbd09-a5e9-4978-a2ae-ec20960e9d83.png">](https://norlab.ulaval.ca/accueil/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 [<img width="114" alt="image" src="https://user-images.githubusercontent.com/502089/212216747-2dd012c4-ed9a-4abd-89a4-204df220b505.png">](https://cervim.ulaval.ca/)
-)
