@@ -77,5 +77,5 @@ L'organisation de cette activité est supporté par :
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 [<img width="120" alt="image" src="https://user-images.githubusercontent.com/502089/212216729-f2bdbd09-a5e9-4978-a2ae-ec20960e9d83.png">](https://norlab.ulaval.ca/accueil/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[<img width="114" alt="image" src="https://user-images.githubusercontent.com/502089/212216747-2dd012c4-ed9a-4abd-89a4-204df220b505.png">](https://cervim.ulaval.ca/![image](https://user-images.githubusercontent.com/502089/212346852-9bf621f5-e2f1-4ac2-8f00-7bc1aa46cc0f.png)
+[<img width="114" alt="image" src="https://user-images.githubusercontent.com/502089/212216747-2dd012c4-ed9a-4abd-89a4-204df220b505.png">](https://cervim.ulaval.ca/)
 )
