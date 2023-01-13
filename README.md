@@ -1,4 +1,3 @@
-# Première Journée Robotique ULaval
 
 Vendredi 27 janvier 2023
 
