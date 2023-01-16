@@ -3,7 +3,7 @@
 ## Visite des installations   
 
 - __Inscription__ : sur invitation seulement
-- __Quand__ : vendredi 27 janvier 2023 8h30-10h20
+- __Quand__ : vendredi 27 janvier 2023 8h30-10h10
 - __Où__ : Local PLT-3370, Université Laval
 
 
@@ -48,7 +48,7 @@
 | |➔ Acquisition et exploitation de vérités terrains précises faites par des stations totales, par Maxime Vaidis|
 | |➔ Apprentissage profond pour la détection d'arbres, par Vincent Grondin|
 | |➔ La reconnaissance visuelle de lieux, par Amar Ali-Bey|
-| |➔ Resilient Deep Reinforcement Learning policy for real-world robotics facing adverse condition, par Luc Coupal|
+| |➔ Apprentissage par renforcement profond pour la robotique et résilience en condition adverse, par Luc Coupal|
 |13h55|Présentations rétrospectives #5|
 | |➔ Exploiting unlabeled data for semantic segmentation of mobile LiDAR point clouds using a semi-supervised approach, par Reza Mahmoudi Kouhi|
 | |➔ Cartographie par drone d'un système terrestre glaciaire : une approche à haute résolution pour comprendre le retrait complexe d'une marge glaciaire (Ilimanaq, Groenland occidental), par Jean-François Bernier|
