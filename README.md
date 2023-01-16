@@ -1,6 +1,6 @@
 # Horaire
 
-## Visite des installations 
+## Visite des installations   
 
 - __Inscription__ : sur invitation seulement
 - __Quand__ : le matin du vendredi 27 janvier 2023
