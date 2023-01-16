@@ -3,7 +3,7 @@
 ## Visite des installations   
 
 - __Inscription__ : sur invitation seulement
-- __Quand__ : le matin du vendredi 27 janvier 2023
+- __Quand__ : vendredi 27 janvier 2023 8h30-10h20
 - __Où__ : Local PLT-3370, Université Laval
 
 
@@ -18,8 +18,8 @@
 
 ## Présentations et échanges
 
-- __Inscription__ : formulaire (URL à venir). L'inscription se termine le 24 jan. 2023
-- __Quand__ : le matin et après-midi du vendredi 27 janvier 2023
+- __Inscription__ : formulaire (URL à venir). L'inscription se termine le 24 jan. 2023 à 23h00
+- __Quand__ : vendredi 27 janvier 2023 10h20-17h00
 - __Où__ : Local PLT-2700, Université Laval
 
 
@@ -31,17 +31,18 @@
 | |➔ Navigation autonome à grande échelle dans les forêts subarctiques : défis à venir et leçons apprises, par Dominic Baril|
 | |➔ The stability of the macro-mini robotic systems for physical human-robot interaction, par Tan Sy Nguyen|
 | |➔ Développement de technologies d’assistance et de réadaptation aux membres supérieurs, par Gabrielle Lemire|
+| |➔ Découplage de la proprioception et de l'actionnement pour les robots sériels, par Xavier Garant|
 | |➔ Un robot sous-marin pour la cartographie géomorphologique des fonds marins, par Patrick Lajeunesse|
 |11h25|Présentations rétrospectives #2|
 | |➔ Conception et prototypage d'un robot cinématiquement redondant SCARA parallèle collaboratif à rotation illimitée et avec préhenseur contrôlé à la base, par Mario Philip Lapierre|
 | |➔ Recalage de nuages de points robustes aux mouvements extrêmes, par Simon-Pierre Deschênes|
 | |➔ Préhension et manipulation en environnements encombrés, par Jérémy Begey|
-| |➔ Un robot parallèle à câbles offrant la préhension, par Patrice Lambert|
+| |➔ Projet de Lab-Usine robotique, par Jonathan Gaudreault|
 |11h50|Présentations rétrospectives #3|
-| |➔ Découplage de la proprioception et de l'actionnement pour les robots sériels, par Xavier Garant|
+| |➔ Robot parallèle à 6-ddl rétro-commandable pour tâches d'interaction sans capteurs, par Thierry Laliberté|
 | |➔ Détection et localisation de billots de bois pour chargeuse autonome, par Jean-Michel Fortin|
 | |➔ A Cable Driven Parallel Robot for the Calibration of radiotherapy machines, par Ramin Mersi|
-| |➔ Robot parallèle à 6-ddl rétro-commandable pour tâches d'interaction sans capteurs, par Thierry Laliberté|
+| |➔ Un robot parallèle à câbles offrant la préhension, par Patrice Lambert|
 |12h15|Dîner en forme libre (aucun repas fourni)|
 |13h30|Présentations rétrospectives #4|
 | |➔ Acquisition et exploitation de vérités terrains précises faites par des stations totales, par Maxime Vaidis|
@@ -57,18 +58,20 @@
 | |➔ Planar CDPR transmission synthesis, par Foroogh Behroozi|
 | |➔ Perception avancée pour application forestière, par Olivier Gamache|
 | |➔ Robot parallèle à (6+3) DDL avec des moteurs fixes, par Arda Yigit|
-| |➔ Caractérisation in-situ de terrain à partir de données de consommation électrique, par Damien LaRocque|
+| |➔ Les défis et enjeux de l'utilisation des robots sous-marins du laboratoire Takuvik pour l'étude des mers englacées, par Marie-Hélène Forget et Guislain Bécu|
 |14h45|Pause-café|
 |15h15|Présentations prospectives #2|
 | |➔ Caractérisation de capteurs lidars pour la navigation autonome, par William Dubois|
 | |➔ L'interaction physique humain-robot dans un contexte de manipulation de charges lourdes, par Jonathan Lacombe|
 | |➔ La saisie automatique d'objets difficiles, par Nassim Benmesbah|
 | |➔ Analysis and Design of a Novel (6+3)-DOF Kinematically Redundant Parallel Robot, par Zhou Zhou|
+| |➔ Présentation du VAUL, par Alexandre Guénette|
 |15h40|Présentations prospectives #3|
 | |➔ Synthèse cinématique et optimisation d’un robot parallèle cinématiquement redondant à (6+2) degrés de liberté pour l’interaction physique-humain robot, par Joshua Flight|
 | |➔ Détection d'objets dans les nuages de points basée sur les masques, par William Guimont-Martin|
 | |➔ Synthèse et prototypage d’un système robotique pour le parachèvement de pièces métalliques complexes, par Pierre-Luc Beaulieu|
 | |➔ Élaboration d’une méthode de détection et de caractérisation des occlusions présentes dans les nuages de points massifs résidentiels à l’aide de l’apprentissage profond, par William Albert|
+| |➔ Caractérisation in-situ de terrain à partir de données de consommation électrique, par Damien LaRocque|
 |16h05|Mot de la fin|
 |16h30|Clôture de l’événement|
 |17h00|Réseautage au [Pub Universitaire](http://www.pubuniversitaire.com/)|
