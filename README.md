@@ -18,7 +18,7 @@
 
 ## Présentations et échanges
 
-- __Inscription__ : [formulaire](https://forms.office.com/r/a7JM0bxuae) . L'inscription se termine le 24 jan. 2023 à 23h59
+- __Inscription__ : [formulaire](https://forms.office.com/r/a7JM0bxuae). L'inscription se termine le 24 jan. 2023 à 23h59
 - __Quand__ : vendredi 27 janvier 2023 10h20-17h00
 - __Où__ : Local PLT-2700, Université Laval
 
@@ -64,12 +64,12 @@
 | |➔ Caractérisation de capteurs lidars pour la navigation autonome, par William Dubois|
 | |➔ L'interaction physique humain-robot dans un contexte de manipulation de charges lourdes, par Jonathan Lacombe|
 | |➔ La saisie automatique d'objets difficiles, par Nassim Benmesbah|
-| |➔ Analysis and Design of a Novel (6+3)-DOF Kinematically Redundant Parallel Robot, par Zhou Zhou|
+| |➔ Synthèse et prototypage d’un système robotique pour le parachèvement de pièces métalliques complexes, par Pierre-Luc Beaulieu|
 | |➔ Présentation du VAUL, par Alexandre Guénette|
 |15h40|Présentations prospectives #3|
 | |➔ Synthèse cinématique et optimisation d’un robot parallèle cinématiquement redondant à (6+2) degrés de liberté pour l’interaction physique-humain robot, par Joshua Flight|
 | |➔ Détection d'objets dans les nuages de points basée sur les masques, par William Guimont-Martin|
-| |➔ Synthèse et prototypage d’un système robotique pour le parachèvement de pièces métalliques complexes, par Pierre-Luc Beaulieu|
+| |➔ Analysis and Design of a Novel (6+3)-DOF Kinematically Redundant Parallel Robot, par Zhou Zhou|
 | |➔ Élaboration d’une méthode de détection et de caractérisation des occlusions présentes dans les nuages de points massifs résidentiels à l’aide de l’apprentissage profond, par William Albert|
 | |➔ Caractérisation in-situ de terrain à partir de données de consommation électrique, par Damien LaRocque|
 |16h05|Mot de la fin|
