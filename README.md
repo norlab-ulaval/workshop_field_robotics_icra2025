@@ -76,7 +76,14 @@
 |16h30|Clôture de l’événement|
 |17h00|Réseautage au [Pub Universitaire](http://www.pubuniversitaire.com/)|
 
-L'organisation de cette activité est supporté par :
+## Comité organisateur :
+
+- François Pomerleau, directeur, Norlab
+- Clément Gosselin, directeur, CeRVIM et Laboratoire de robotique
+- Edith Brotherton, Coordonnatrice de recherche, Norlab
+- Annette Schwerdtfeger, Coordonnatrice de recherche, CeRVIM
+
+Du plus, l'organisation de cette activité est supporté par :
 
 [<img width="101" alt="image" src="https://user-images.githubusercontent.com/502089/212216717-f4234e9d-b9f5-4fba-8ec0-8ed343cdce1f.png">](https://robot.gmc.ulaval.ca/accueil)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
