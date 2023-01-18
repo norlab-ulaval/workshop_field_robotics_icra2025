@@ -78,10 +78,10 @@
 
 ## Comité organisateur :
 
-- François Pomerleau, directeur, Norlab
-- Clément Gosselin, directeur, CeRVIM et Laboratoire de robotique
-- Edith Brotherton, Coordonnatrice de recherche, Norlab
-- Annette Schwerdtfeger, Coordonnatrice de recherche, CeRVIM
+- [François Pomerleau](https://norlab.ulaval.ca/people/f_pomerleau_fr/), directeur, [Norlab](https://norlab.ulaval.ca/accueil/)
+- [Clément Gosselin](https://robot.gmc.ulaval.ca/en/members/current-members/clement-gosselin/), directeur, [CeRVIM](https://cervim.ulaval.ca/) et [Laboratoire de robotique](https://robot.gmc.ulaval.ca)
+- Edith Brotherton, Coordonnatrice de recherche, [Norlab](https://norlab.ulaval.ca/accueil/)
+- Annette Schwerdtfeger, Coordonnatrice de recherche, [CeRVIM](https://cervim.ulaval.ca/)
 
 Du plus, l'organisation de cette activité est supporté par :
 
