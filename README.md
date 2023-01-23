@@ -53,7 +53,7 @@
 | |➔ Exploiting unlabeled data for semantic segmentation of mobile LiDAR point clouds using a semi-supervised approach, par Reza Mahmoudi Kouhi|
 | |➔ Cartographie par drone d'un système terrestre glaciaire : une approche à haute résolution pour comprendre le retrait complexe d'une marge glaciaire (Ilimanaq, Groenland occidental), par Jean-François Bernier|
 | |➔ Conceptual design, kinematic analysis and trajectory planning of a redundant collaborative robot, par Ramin Ghaedrahmati|
-| |➔ Travaux au laboratoire d’Alexandre Campeau-Lecours, par Gabrielle Lemire|
+| |➔ Travaux au laboratoire d’ingénierie de la réadaptation, par Alexandre Campeau-Lecours|
 |14h20|Présentations prospectives #1|
 | |➔ Planar CDPR transmission synthesis, par Foroogh Behroozi|
 | |➔ Perception avancée pour application forestière, par Olivier Gamache|
