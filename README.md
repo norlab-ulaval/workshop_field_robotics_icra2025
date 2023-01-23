@@ -29,7 +29,7 @@
 |10h45|Mot de bienvenue|
 |11h00|Présentations rétrospectives #1|
 | |➔ Navigation autonome à grande échelle dans les forêts subarctiques : défis à venir et leçons apprises, par Dominic Baril|
-| |➔ The stability of the macro-mini robotic systems for physical human-robot interaction, par Tan Sy Nguyen|
+| |➔ Macro-mini systems for physical human - robot interaction applications, par Tan Sy Nguyen|
 | |➔ Développement de technologies d’assistance et de réadaptation aux membres supérieurs, par Gabrielle Lemire|
 | |➔ Découplage de la proprioception et de l'actionnement pour les robots sériels, par Xavier Garant|
 | |➔ Un robot sous-marin pour la cartographie géomorphologique des fonds marins, par Patrick Lajeunesse|
