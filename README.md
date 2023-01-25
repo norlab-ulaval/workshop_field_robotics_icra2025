@@ -15,6 +15,7 @@
 | |➔ Laboratoires et ateliers du [Laboratoire de robotique boréale (Norlab)](https://norlab.ulaval.ca/accueil/)|
 | |➔ Atelier du [Laboratoire d'ingénierie de la Réadaptation (IngRéadaptULaval)](https://www.ingreadaptulaval.ca/)|
 | |➔ Atelier du club [Véhicule Autonome (VAUL)](https://vaul.fsg.ulaval.ca/)|
+| |➔ Atelier du [Laboratoire de Vision et Systèmes Numériques](http://vision.gel.ulaval.ca/)|
 
 ## Présentations et échanges
 
