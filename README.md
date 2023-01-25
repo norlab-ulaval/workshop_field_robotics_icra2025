@@ -18,7 +18,7 @@
 
 ## Présentations et échanges
 
-- __Inscription__ : [formulaire](https://forms.office.com/r/a7JM0bxuae). L'inscription se termine le 24 jan. 2023 à 23h59
+- __Inscription__ : Terminée. L'inscription s'est terminée le 24 jan. 2023 à 23h59
 - __Quand__ : vendredi 27 janvier 2023 10h20-17h00
 - __Où__ : Local PLT-2700, Université Laval
 
