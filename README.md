@@ -33,7 +33,7 @@
 | |➔ Macro-mini systems for physical human - robot interaction applications, par Tan Sy Nguyen|
 | |➔ Développement de technologies d’assistance et de réadaptation aux membres supérieurs, par Gabrielle Lemire|
 | |➔ Découplage de la proprioception et de l'actionnement pour les robots sériels, par Xavier Garant|
-| |➔ Un robot sous-marin pour la cartographie géomorphologique des fonds marins, par Patrick Lajeunesse|
+| |➔ Un robot sous-marin pour la cartographie géomorphologique des fonds marins, par Alexis Paul Belko|
 |11h25|Présentations rétrospectives #2|
 | |➔ Conception et prototypage d'un robot cinématiquement redondant SCARA parallèle collaboratif à rotation illimitée et avec préhenseur contrôlé à la base, par Mario Philip Lapierre|
 | |➔ Recalage de nuages de points robustes aux mouvements extrêmes, par Simon-Pierre Deschênes|
