@@ -28,7 +28,7 @@
 |:----:|:----|
 |10h20|Pause-café et accueil général au PLT-2700|
 |10h45|Mot de bienvenue|
-|11h00|Présentations rétrospectives #1([PDF](./pdf/11h00_Retrospectif_1.pdf))|
+|11h00|Présentations rétrospectives #1 ([PDF](./pdf/11h00_Retrospectif_1.pdf))|
 | |➔ Navigation autonome à grande échelle dans les forêts subarctiques : défis à venir et leçons apprises, par Dominic Baril|
 | |➔ Macro-mini systems for physical human - robot interaction applications, par Tan Sy Nguyen|
 | |➔ Développement de technologies d’assistance et de réadaptation aux membres supérieurs, par Gabrielle Lemire|
@@ -39,35 +39,35 @@
 | |➔ Recalage de nuages de points robustes aux mouvements extrêmes, par Simon-Pierre Deschênes|
 | |➔ Préhension et manipulation en environnements encombrés, par Jérémy Begey|
 | |➔ Projet de Lab-Usine robotique, par Jonathan Gaudreault|
-|11h50|Présentations rétrospectives #3|
+|11h50|Présentations rétrospectives #3 ([PDF](./pdf/11h50_Retrospectif_3.pdf))|
 | |➔ Robot parallèle à 6-ddl rétro-commandable pour tâches d'interaction sans capteurs, par Thierry Laliberté|
 | |➔ Détection et localisation de billots de bois pour chargeuse autonome, par Jean-Michel Fortin|
 | |➔ A Cable Driven Parallel Robot for the Calibration of radiotherapy machines, par Ramin Mersi|
 | |➔ Un robot parallèle à câbles offrant la préhension, par Patrice Lambert|
 |12h15|Dîner en forme libre (aucun repas fourni)|
-|13h30|Présentations rétrospectives #4|
+|13h30|Présentations rétrospectives #4 ([PDF](./pdf/13h30_Retrospectif_4_incomplet.pdf))|
 | |➔ Acquisition et exploitation de vérités terrains précises faites par des stations totales, par Maxime Vaidis|
 | |➔ Apprentissage profond pour la détection d'arbres, par Vincent Grondin|
 | |➔ La reconnaissance visuelle de lieux, par Amar Ali-Bey|
 | |➔ Apprentissage par renforcement profond pour la robotique et résilience en condition adverse, par Luc Coupal|
-|13h55|Présentations rétrospectives #5|
+|13h55|Présentations rétrospectives #5 ([PDF](./pdf/13h55_Retrospectif_5.pdf))|
 | |➔ Exploiting unlabeled data for semantic segmentation of mobile LiDAR point clouds using a semi-supervised approach, par Reza Mahmoudi Kouhi|
 | |➔ Cartographie par drone d'un système terrestre glaciaire : une approche à haute résolution pour comprendre le retrait complexe d'une marge glaciaire (Ilimanaq, Groenland occidental), par Jean-François Bernier|
 | |➔ Conceptual design, kinematic analysis and trajectory planning of a redundant collaborative robot, par Ramin Ghaedrahmati|
 | |➔ Travaux au laboratoire d’ingénierie de la réadaptation, par Alexandre Campeau-Lecours|
-|14h20|Présentations prospectives #1|
+|14h20|Présentations prospectives #1 ([PDF](./pdf/14h20_Prospectif_1.pdf))|
 | |➔ Planar CDPR transmission synthesis, par Foroogh Behroozi|
 | |➔ Perception avancée pour application forestière, par Olivier Gamache|
 | |➔ Robot parallèle à (6+3) DDL avec des moteurs fixes, par Arda Yigit|
 | |➔ Les défis et enjeux de l'utilisation des robots sous-marins du laboratoire Takuvik pour l'étude des mers englacées, par Marie-Hélène Forget et Guislain Bécu|
 |14h45|Pause-café|
-|15h15|Présentations prospectives #2|
+|15h15|Présentations prospectives #2 ([PDF](./pdf/15h15_Prospectif_2.pdf))|
 | |➔ Caractérisation de capteurs lidars pour la navigation autonome, par William Dubois|
 | |➔ L'interaction physique humain-robot dans un contexte de manipulation de charges lourdes, par Jonathan Lacombe|
 | |➔ La saisie automatique d'objets difficiles, par Nassim Benmesbah|
 | |➔ Synthèse et prototypage d’un système robotique pour le parachèvement de pièces métalliques complexes, par Pierre-Luc Beaulieu|
 | |➔ Présentation du VAUL, par Alexandre Guénette|
-|15h40|Présentations prospectives #3|
+|15h40|Présentations prospectives #3 ([PDF](./pdf/15h40_Prospectif_3.pdf))|
 | |➔ Synthèse cinématique et optimisation d’un robot parallèle cinématiquement redondant à (6+2) degrés de liberté pour l’interaction physique-humain robot, par Joshua Flight|
 | |➔ Détection d'objets dans les nuages de points basée sur les masques, par William Guimont-Martin|
 | |➔ Analysis and Design of a Novel (6+3)-DOF Kinematically Redundant Parallel Robot, par Zhou Zhou|
