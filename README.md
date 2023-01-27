@@ -45,7 +45,7 @@
 | |➔ A Cable Driven Parallel Robot for the Calibration of radiotherapy machines, par Ramin Mersi|
 | |➔ Un robot parallèle à câbles offrant la préhension, par Patrice Lambert|
 |12h15|Dîner en forme libre (aucun repas fourni)|
-|13h30|Présentations rétrospectives #4 ([PDF](./pdf/13h30_Retrospectif_4_incomplet.pdf))|
+|13h30|Présentations rétrospectives #4 ([PDF](./pdf/13h30_Retrospectif_4.pdf))|
 | |➔ Acquisition et exploitation de vérités terrains précises faites par des stations totales, par Maxime Vaidis|
 | |➔ Apprentissage profond pour la détection d'arbres, par Vincent Grondin|
 | |➔ La reconnaissance visuelle de lieux, par Amar Ali-Bey|
