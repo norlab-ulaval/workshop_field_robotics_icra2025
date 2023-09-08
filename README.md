@@ -31,8 +31,9 @@
   description of the talk 1
 </span>
 </div>
+
 <br>
-<div>
+<div style="clear:left;">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
          align='middle'
          src="images/speakers/example.jpg" alt="Image" width="150" height="150" />
