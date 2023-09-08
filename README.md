@@ -45,7 +45,6 @@
 <div style="clear:left;">
 </div>
 <br>
-<br>
 
 ## Call for papers
 
