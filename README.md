@@ -42,6 +42,9 @@
 </span>
 </div>
 
+<div style="clear:left;">
+</div>
+
 ## Call for papers
 
 ### Submission guidelines
