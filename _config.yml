@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
-title: Journée de la robotique ULaval - 27 janvier 2023
+title: ICRA24 Workshop - Field Robotics
 show_downloads: false
-logo: /images/ULaval_H_C.png
+logo: /images/forest_large.jpg
 github:
   is_project_page: false
