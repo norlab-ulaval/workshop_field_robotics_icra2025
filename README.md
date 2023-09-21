@@ -64,7 +64,8 @@ The workshop topics include, but not limited to:
 FR workshop accepts contributions based on the following criteria:
 
 - The submission should be about 2 pages long (excluding references). The paper should follow the [IEEE RAS template](http://ras.papercept.net/conferences/support/tex.php).
-- The review process is single-blind, and at least two reviewers will review the submitted papers based on the novelty, relevance of the workshop topics, and clarity of language. We welcome perspective and conceptual papers as well.
+- The review process is single-blind.
+- We welcome perspective and conceptual papers as well.
 - TODO: The papers should be submitted to this adress: ...
 - Accepted papers will be available on the workshop website. The authors of accepted papers will be invited to present their results in a poster session during the workshop.
   
