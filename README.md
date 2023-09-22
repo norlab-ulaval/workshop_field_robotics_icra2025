@@ -44,7 +44,7 @@ This workshop will bring together experts, researchers, and practitioners to dis
     <div class="image">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
          align='middle'
-         src="images/speakers/example.jpg" alt="Image" width="150" height="150" />
+         src="images/speakers/sanjiv_singh.jpg" alt="Image" width="150" height="150" />
     </div>
       <div class="text">
         <h3>Overview of the Last 20 Years in Field Robotics</h3>
@@ -60,7 +60,7 @@ This workshop will bring together experts, researchers, and practitioners to dis
     <div class="image">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
          align='middle'
-         src="images/speakers/example.jpg" alt="Image" width="150" height="150" />
+         src="images/speakers/barry_lennox.jpeg" alt="Image" width="150" height="150" />
     </div>
       <div class="text">
         <h3>Deployment of robotic systems for decommissioning and clean-up of radioactive facilities</h3>
@@ -76,7 +76,7 @@ This workshop will bring together experts, researchers, and practitioners to dis
     <div class="image">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
          align='middle'
-         src="images/speakers/example.jpg" alt="Image" width="150" height="150" />
+         src="images/speakers/johannes_betz.jpg" alt="Image" width="150" height="150" />
     </div>
       <div class="text">
         <h3>Opportunities and Challenges with Autonomous Racing</h3>
@@ -108,7 +108,7 @@ This workshop will bring together experts, researchers, and practitioners to dis
     <div class="image">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
          align='middle'
-         src="images/speakers/example.jpg" alt="Image" width="150" height="150" />
+         src="images/speakers/sebastian_scherer.jpg" alt="Image" width="150" height="150" />
     </div>
       <div class="text">
         <h3>Recent Progress on DARPA’s Robotic Autonomy in Complex Environments with Resiliency (RACER)</h3>
@@ -124,7 +124,7 @@ This workshop will bring together experts, researchers, and practitioners to dis
     <div class="image">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
          align='middle'
-         src="images/speakers/example.jpg" alt="Image" width="150" height="150" />
+         src="images/speakers/cedric_pradalier.jpeg" alt="Image" width="150" height="150" />
     </div>
       <div class="text">
         <h3>Recent Progress on Ship Inspections</h3>
@@ -140,7 +140,7 @@ This workshop will bring together experts, researchers, and practitioners to dis
     <div class="image">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
          align='middle'
-         src="images/speakers/example.jpg" alt="Image" width="150" height="150" />
+         src="images/speakers/martin_saska.jpg" alt="Image" width="150" height="150" />
     </div>
       <div class="text">
         <h3>Results of the Mohamed Bin Zayed International Robotics Challenge (MBZIRC)</h3>
@@ -156,7 +156,7 @@ This workshop will bring together experts, researchers, and practitioners to dis
     <div class="image">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
          align='middle'
-         src="images/speakers/example.jpg" alt="Image" width="150" height="150" />
+         src="images/speakers/kostas_alexis.jpg" alt="Image" width="150" height="150" />
     </div>
       <div class="text">
         <h3>Resilient Autonomy in Perceptually-degraded Environments: Experiences from the field</h3>
@@ -200,7 +200,7 @@ FR workshop accepts contributions based on the following criteria:
     <div class="image">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
          align='middle'
-         src="images/speakers/example.jpg" alt="Image" width="80" height="80" />
+         src="images/organizers/francois_Pomerleau.jpg" alt="Image" width="80" height="80" />
     </div>
       <div class="text">
         <strong>François Pomerleau</strong><br/>
@@ -216,7 +216,7 @@ FR workshop accepts contributions based on the following criteria:
     <div class="image">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
          align='middle'
-         src="images/speakers/example.jpg" alt="Image" width="80" height="80" />
+         src="images/organizers/tim_barfoot.jpg" alt="Image" width="80" height="80" />
     </div>
       <div class="text">
         <strong>Tim Barfoot</strong><br/>
@@ -232,7 +232,7 @@ FR workshop accepts contributions based on the following criteria:
     <div class="image">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
          align='middle'
-         src="images/speakers/example.jpg" alt="Image" width="80" height="80" />
+         src="images/organizers/marco_hutter.jpg" alt="Image" width="80" height="80" />
     </div>
       <div class="text">
         <strong>Marco Hutter</strong><br/>
@@ -248,7 +248,7 @@ FR workshop accepts contributions based on the following criteria:
     <div class="image">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
          align='middle'
-         src="images/speakers/example.jpg" alt="Image" width="80" height="80" />
+         src="images/organizers/ishigami_genya.jpg" alt="Image" width="80" height="80" />
     </div>
       <div class="text">
         <strong>Genya Ishigami</strong><br/>
@@ -264,7 +264,7 @@ FR workshop accepts contributions based on the following criteria:
     <div class="image">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
          align='middle'
-         src="images/speakers/example.jpg" alt="Image" width="80" height="80" />
+         src="images/organizers/philippe_giguere.jpg" alt="Image" width="80" height="80" />
     </div>
       <div class="text">
         <strong>Philippe Giguère</strong><br/>
@@ -280,7 +280,7 @@ FR workshop accepts contributions based on the following criteria:
     <div class="image">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
          align='middle'
-         src="images/speakers/example.jpg" alt="Image" width="80" height="80" />
+         src="images/organizers/johann_laconte.jpg" alt="Image" width="80" height="80" />
     </div>
       <div class="text">
         <strong>Johann Laconte</strong><br/>
