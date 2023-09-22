@@ -67,6 +67,8 @@ This workshop will bring together experts, researchers, and practitioners to dis
       </div>
 </div>
 
+<div style="clear:left;">
+</div>
 <br>
 <div class="container">
     <div class="image">
