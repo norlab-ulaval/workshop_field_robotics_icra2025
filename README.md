@@ -222,7 +222,7 @@ FR workshop accepts contributions based on the following criteria:
       <div class="text">
         <strong>François Pomerleau</strong><br/>
         <em>Université Laval</em><br/>
-        <a href="https://norlab.ulaval.ca/people/f_pomerleau_fr/">Personnal website</a>
+        <a href="https://norlab.ulaval.ca/people/f_pomerleau_fr/">Personal website</a>
       </div>
 </div>
 
@@ -238,7 +238,7 @@ FR workshop accepts contributions based on the following criteria:
       <div class="text">
         <strong>Tim Barfoot</strong><br/>
         <em>University of Toronto</em> <br/>
-        <a href="http://asrl.utias.utoronto.ca/~tdb/">Personnal website</a>
+        <a href="http://asrl.utias.utoronto.ca/~tdb/">Personal website</a>
       </div>
 </div>
 
@@ -254,7 +254,7 @@ FR workshop accepts contributions based on the following criteria:
       <div class="text">
         <strong>Marco Hutter</strong><br/>
         <em>ETH Zurich</em> <br/>
-        <a href="https://rsl.ethz.ch/the-lab/people/person-detail.MTIxOTEx.TGlzdC8yNDQxLC0xNDI1MTk1NzM1.html">Personnal website</a>
+        <a href="https://rsl.ethz.ch/the-lab/people/person-detail.MTIxOTEx.TGlzdC8yNDQxLC0xNDI1MTk1NzM1.html">Personal website</a>
       </div>
 </div>
 
@@ -270,7 +270,7 @@ FR workshop accepts contributions based on the following criteria:
       <div class="text">
         <strong>Genya Ishigami</strong><br/>
         <em>Keio University</em> <br/>
-        <a href="https://www.st.keio.ac.jp/en/tprofile/mech/ishigami.html">Personnal website</a>
+        <a href="https://www.st.keio.ac.jp/en/tprofile/mech/ishigami.html">Personal website</a>
       </div>
 </div>
 
@@ -286,7 +286,7 @@ FR workshop accepts contributions based on the following criteria:
       <div class="text">
         <strong>Philippe Giguère</strong><br/>
         <em>Université Laval</em> <br/>
-        <a href="https://norlab.ulaval.ca/people/p_giguere_fr/">Personnal website</a>
+        <a href="https://norlab.ulaval.ca/people/p_giguere_fr/">Personal website</a>
       </div>
 </div>
 
@@ -302,6 +302,6 @@ FR workshop accepts contributions based on the following criteria:
       <div class="text">
         <strong>Johann Laconte</strong><br/>
         <em>French National Research Institute for Agriculture, Food and Environment (INRAE)</em> <br/>
-        <a href="https://johannlac.github.io/">Personnal website</a>
+        <a href="https://johannlac.github.io/">Personal website</a>
       </div>
 </div>
