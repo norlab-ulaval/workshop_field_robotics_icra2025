@@ -169,6 +169,22 @@ This workshop will bring together experts, researchers, and practitioners to dis
 <div style="clear:left;">
 </div>
 <br>
+<div class="container">
+    <div class="image">
+    <img style="float:left;padding-right:10px;padding-bottom:10px" 
+         align='middle'
+         src="images/speakers/keiji_nagatani.jpg" alt="Image" width="150" height="150" />
+    </div>
+      <div class="text">
+        <h3>Collaborative AI robots for adaptation of diverse environments and innovation of infrastructure construction</h3>
+        <strong>Keiji Nagatani</strong><br/>
+        <em>University of Tokyo</em> 
+      </div>
+</div>
+
+<div style="clear:left;">
+</div>
+<br>
 
 # Call for papers
 
