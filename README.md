@@ -69,7 +69,6 @@ This workshop will bring together experts, researchers, and practitioners to dis
       </div>
 </div>
 
-
 <div style="clear:left;">
 </div>
 <br>
@@ -77,12 +76,12 @@ This workshop will bring together experts, researchers, and practitioners to dis
     <div class="image">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
          align='middle'
-         src="images/speakers/example.jpg" alt="Image" width="150" height="150" />
+         src="images/speakers/marija_mpopovic.jpg" alt="Image" width="150" height="150" />
     </div>
       <div class="text">
         <h3>Field Report on Agriculture Robotics</h3>
-        <strong>TBD</strong><br/>
-        <em>TBD</em> 
+        <strong>Marija Mpopovic</strong><br/>
+        <em>University of Bonn</em> 
       </div>
 </div>
 
@@ -126,12 +125,12 @@ This workshop will bring together experts, researchers, and practitioners to dis
     <div class="image">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
          align='middle'
-         src="images/speakers/cedric_pradalier.jpeg" alt="Image" width="150" height="150" />
+         src="images/speakers/example.jpg" alt="Image" width="150" height="150" />
     </div>
       <div class="text">
-        <h3>Recent Progress on Ship Inspections</h3>
-        <strong>Cédric Pradalier</strong><br/>
-        <em>Georgia Tech Lorraine</em> 
+        <h3>TBD</h3>
+        <strong>TBD</strong><br/>
+        <em>TBD</em> 
       </div>
 </div>
 
