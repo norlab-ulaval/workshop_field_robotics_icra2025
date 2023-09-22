@@ -40,13 +40,16 @@ This workshop will bring together experts, researchers, and practitioners to dis
 
 
 # Speakers  
-<div>
+<div class="container">
+    <div class="image">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
          align='middle'
          src="images/speakers/example.jpg" alt="Image" width="150" height="150" />
-<span style=""> 
-  description of the talk 1
-</span>
+    </div>
+      <div class="text">
+        <h3>Name name</h3>
+        text text text
+      </div>
 </div>
 
 <br>
