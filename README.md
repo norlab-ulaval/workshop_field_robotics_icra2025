@@ -48,7 +48,7 @@ This workshop will bring together experts, researchers, and practitioners to dis
     </div>
       <div class="text">
         <h3>Overview of the Last 20 Years in Field Robotics</h3>
-        <strong>Sanjiv Singh</strong>
+        <strong>Sanjiv Singh</strong><br/>
         <em>Carnegie Mellon University</em> 
       </div>
 </div>
@@ -64,7 +64,7 @@ This workshop will bring together experts, researchers, and practitioners to dis
     </div>
       <div class="text">
         <h3>Deployment of robotic systems for decommissioning and clean-up of radioactive facilities</h3>
-        <strong>Barry Lennox</strong>
+        <strong>Barry Lennox</strong><br/>
         <em>University of Manchester</em> 
       </div>
 </div>
@@ -80,7 +80,7 @@ This workshop will bring together experts, researchers, and practitioners to dis
     </div>
       <div class="text">
         <h3>Opportunities and Challenges with Autonomous Racing</h3>
-        <strong>Johannes Betz</strong>
+        <strong>Johannes Betz</strong><br/>
         <em>Technical University of Munich</em> 
       </div>
 </div>
@@ -96,7 +96,7 @@ This workshop will bring together experts, researchers, and practitioners to dis
     </div>
       <div class="text">
         <h3>Field Report on Agriculture Robotics</h3>
-        <strong>TBD</strong>
+        <strong>TBD</strong><br/>
         <em>TBD</em> 
       </div>
 </div>
@@ -112,11 +112,13 @@ This workshop will bring together experts, researchers, and practitioners to dis
     </div>
       <div class="text">
         <h3>Recent Progress on DARPA’s Robotic Autonomy in Complex Environments with Resiliency (RACER)</h3>
-        <strong>Sebastian Scherer</strong>
+        <strong>Sebastian Scherer</strong><br/>
         <em>Carnegie Mellon University, Robotics Institute</em> 
       </div>
 </div>
 
+<div style="clear:left;">
+</div>
 <br>
 <div class="container">
     <div class="image">
@@ -126,11 +128,13 @@ This workshop will bring together experts, researchers, and practitioners to dis
     </div>
       <div class="text">
         <h3>Recent Progress on Ship Inspections</h3>
-        <strong>Cédric Pradalier</strong>
+        <strong>Cédric Pradalier</strong><br/>
         <em>Georgia Tech Lorraine</em> 
       </div>
 </div>
 
+<div style="clear:left;">
+</div>
 <br>
 <div class="container">
     <div class="image">
@@ -140,11 +144,13 @@ This workshop will bring together experts, researchers, and practitioners to dis
     </div>
       <div class="text">
         <h3>Results of the Mohamed Bin Zayed International Robotics Challenge (MBZIRC)</h3>
-        <strong>Martin Saska</strong>
+        <strong>Martin Saska</strong><br/>
         <em>Czech Technical University in Prague</em> 
       </div>
 </div>
 
+<div style="clear:left;">
+</div>
 <br>
 <div class="container">
     <div class="image">
@@ -154,7 +160,7 @@ This workshop will bring together experts, researchers, and practitioners to dis
     </div>
       <div class="text">
         <h3>Resilient Autonomy in Perceptually-degraded Environments: Experiences from the field</h3>
-        <strong>Kostas Alexis</strong>
+        <strong>Kostas Alexis</strong><br/>
         <em>Norwegian University of Science and Technology (NTNU)</em> 
       </div>
 </div>
@@ -197,12 +203,14 @@ FR workshop accepts contributions based on the following criteria:
          src="images/speakers/example.jpg" alt="Image" width="80" height="80" />
     </div>
       <div class="text">
-        <strong>François Pomerleau</strong>
-          Professor
-        <em>Université Laval</em> 
+        <strong>François Pomerleau</strong><br/>
+        <em>Université Laval</em><br/>
+        <a href="https://norlab.ulaval.ca/people/f_pomerleau_fr/">Personnal website</a>
       </div>
 </div>
 
+<div style="clear:left;">
+</div>
 <br>
 <div class="container">
     <div class="image">
@@ -211,11 +219,14 @@ FR workshop accepts contributions based on the following criteria:
          src="images/speakers/example.jpg" alt="Image" width="80" height="80" />
     </div>
       <div class="text">
-        <strong>Tim Barfoot</strong>
-        <em>University of Toronto</em> 
+        <strong>Tim Barfoot</strong><br/>
+        <em>University of Toronto</em> <br/>
+        <a href="http://asrl.utias.utoronto.ca/~tdb/">Personnal website</a>
       </div>
 </div>
 
+<div style="clear:left;">
+</div>
 <br>
 <div class="container">
     <div class="image">
@@ -224,11 +235,14 @@ FR workshop accepts contributions based on the following criteria:
          src="images/speakers/example.jpg" alt="Image" width="80" height="80" />
     </div>
       <div class="text">
-        <strong>Marco Hutter</strong>
-        <em>Norwegian University of Science and Technology (NTNU)</em> 
+        <strong>Marco Hutter</strong><br/>
+        <em>ETH Zurich</em> <br/>
+        <a href="https://rsl.ethz.ch/the-lab/people/person-detail.MTIxOTEx.TGlzdC8yNDQxLC0xNDI1MTk1NzM1.html">Personnal website</a>
       </div>
 </div>
 
+<div style="clear:left;">
+</div>
 <br>
 <div class="container">
     <div class="image">
@@ -237,11 +251,14 @@ FR workshop accepts contributions based on the following criteria:
          src="images/speakers/example.jpg" alt="Image" width="80" height="80" />
     </div>
       <div class="text">
-        <strong>Genya Ishigami</strong>
-        <em>Keio University</em> 
+        <strong>Genya Ishigami</strong><br/>
+        <em>Keio University</em> <br/>
+        <a href="https://www.st.keio.ac.jp/en/tprofile/mech/ishigami.html">Personnal website</a>
       </div>
 </div>
 
+<div style="clear:left;">
+</div>
 <br>
 <div class="container">
     <div class="image">
@@ -250,11 +267,14 @@ FR workshop accepts contributions based on the following criteria:
          src="images/speakers/example.jpg" alt="Image" width="80" height="80" />
     </div>
       <div class="text">
-        <strong>Philippe Giguère</strong>
-        <em>Université Laval</em> 
+        <strong>Philippe Giguère</strong><br/>
+        <em>Université Laval</em> <br/>
+        <a href="https://norlab.ulaval.ca/people/p_giguere_fr/">Personnal website</a>
       </div>
 </div>
 
+<div style="clear:left;">
+</div>
 <br>
 <div class="container">
     <div class="image">
@@ -263,14 +283,8 @@ FR workshop accepts contributions based on the following criteria:
          src="images/speakers/example.jpg" alt="Image" width="80" height="80" />
     </div>
       <div class="text">
-        <strong>Johann Laconte</strong>
-        <em>French National Research Institute for Agriculture, Food and Environment (INRAE)</em> 
+        <strong>Johann Laconte</strong><br/>
+        <em>French National Research Institute for Agriculture, Food and Environment (INRAE)</em> <br/>
+        <a href="https://johannlac.github.io/">Personnal website</a>
       </div>
 </div>
-
-- [François Pomerleau](https://norlab.ulaval.ca/people/f_pomerleau_fr/), Professor, Université Laval
-- [Tim Barfoot](http://asrl.utias.utoronto.ca/~tdb/), Professor, University of Toronto
-- [Marco Hutter](https://rsl.ethz.ch/the-lab/people/person-detail.MTIxOTEx.TGlzdC8yNDQxLC0xNDI1MTk1NzM1.html), Professor, ETH Zurich
-- [Genya Ishigami](https://www.st.keio.ac.jp/en/tprofile/mech/ishigami.html), Professor, Keio University
-- [Philippe Giguère](https://norlab.ulaval.ca/people/p_giguere_fr/), Professor, Université Laval
-- [Johann Laconte](https://johannlac.github.io/), Professor, INRAE France
