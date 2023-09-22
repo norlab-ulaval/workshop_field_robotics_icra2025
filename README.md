@@ -47,19 +47,108 @@ This workshop will bring together experts, researchers, and practitioners to dis
          src="images/speakers/example.jpg" alt="Image" width="150" height="150" />
     </div>
       <div class="text">
-        <h3>Name name</h3>
-        text text text
+        <h3>Overview of the Last 20 Years in Field Robotics</h3>
+        <strong>Sanjiv Singh</strong>
+        <em>Carnegie Mellon University</em> 
       </div>
 </div>
 
 <br>
-<div style="clear:left;">
+<div class="container">
+    <div class="image">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
          align='middle'
          src="images/speakers/example.jpg" alt="Image" width="150" height="150" />
-<span style=""> 
-  description of the talk 2
-</span>
+    </div>
+      <div class="text">
+        <h3>Deployment of robotic systems for decommissioning and clean-up of radioactive facilities</h3>
+        <strong>Barry Lennox</strong>
+        <em>University of Manchester</em> 
+      </div>
+</div>
+
+<br>
+<div class="container">
+    <div class="image">
+    <img style="float:left;padding-right:10px;padding-bottom:10px" 
+         align='middle'
+         src="images/speakers/example.jpg" alt="Image" width="150" height="150" />
+    </div>
+      <div class="text">
+        <h3>Opportunities and Challenges with Autonomous Racing</h3>
+        <strong>Johannes Betz</strong>
+        <em>Technical University of Munich</em> 
+      </div>
+</div>
+
+<br>
+<div class="container">
+    <div class="image">
+    <img style="float:left;padding-right:10px;padding-bottom:10px" 
+         align='middle'
+         src="images/speakers/example.jpg" alt="Image" width="150" height="150" />
+    </div>
+      <div class="text">
+        <h3>Field Report on Agriculture Robotics</h3>
+        <strong>TBD</strong>
+        <em>TBD</em> 
+      </div>
+</div>
+
+<br>
+<div class="container">
+    <div class="image">
+    <img style="float:left;padding-right:10px;padding-bottom:10px" 
+         align='middle'
+         src="images/speakers/example.jpg" alt="Image" width="150" height="150" />
+    </div>
+      <div class="text">
+        <h3>Recent Progress on DARPA’s Robotic Autonomy in Complex Environments with Resiliency (RACER)</h3>
+        <strong>Sebastian Scherer</strong>
+        <em>Carnegie Mellon University, Robotics Institute</em> 
+      </div>
+</div>
+
+<br>
+<div class="container">
+    <div class="image">
+    <img style="float:left;padding-right:10px;padding-bottom:10px" 
+         align='middle'
+         src="images/speakers/example.jpg" alt="Image" width="150" height="150" />
+    </div>
+      <div class="text">
+        <h3>Recent Progress on Ship Inspections</h3>
+        <strong>Cédric Pradalier</strong>
+        <em>Georgia Tech Lorraine</em> 
+      </div>
+</div>
+
+<br>
+<div class="container">
+    <div class="image">
+    <img style="float:left;padding-right:10px;padding-bottom:10px" 
+         align='middle'
+         src="images/speakers/example.jpg" alt="Image" width="150" height="150" />
+    </div>
+      <div class="text">
+        <h3>Results of the Mohamed Bin Zayed International Robotics Challenge (MBZIRC)</h3>
+        <strong>Martin Saska</strong>
+        <em>Czech Technical University in Prague</em> 
+      </div>
+</div>
+
+<br>
+<div class="container">
+    <div class="image">
+    <img style="float:left;padding-right:10px;padding-bottom:10px" 
+         align='middle'
+         src="images/speakers/example.jpg" alt="Image" width="150" height="150" />
+    </div>
+      <div class="text">
+        <h3>Resilient Autonomy in Perceptually-degraded Environments: Experiences from the field</h3>
+        <strong>Kostas Alexis</strong>
+        <em>Norwegian University of Science and Technology (NTNU)</em> 
+      </div>
 </div>
 
 <div style="clear:left;">
@@ -92,6 +181,84 @@ FR workshop accepts contributions based on the following criteria:
   
 
 # Organizers
+
+<div class="container">
+    <div class="image">
+    <img style="float:left;padding-right:10px;padding-bottom:10px" 
+         align='middle'
+         src="images/speakers/example.jpg" alt="Image" width="80" height="80" />
+    </div>
+      <div class="text">
+        <strong>François Pomerleau</strong>
+          Professor
+        <em>Université Laval</em> 
+      </div>
+</div>
+
+<br>
+<div class="container">
+    <div class="image">
+    <img style="float:left;padding-right:10px;padding-bottom:10px" 
+         align='middle'
+         src="images/speakers/example.jpg" alt="Image" width="80" height="80" />
+    </div>
+      <div class="text">
+        <strong>Tim Barfoot</strong>
+        <em>University of Toronto</em> 
+      </div>
+</div>
+
+<br>
+<div class="container">
+    <div class="image">
+    <img style="float:left;padding-right:10px;padding-bottom:10px" 
+         align='middle'
+         src="images/speakers/example.jpg" alt="Image" width="80" height="80" />
+    </div>
+      <div class="text">
+        <strong>Marco Hutter</strong>
+        <em>Norwegian University of Science and Technology (NTNU)</em> 
+      </div>
+</div>
+
+<br>
+<div class="container">
+    <div class="image">
+    <img style="float:left;padding-right:10px;padding-bottom:10px" 
+         align='middle'
+         src="images/speakers/example.jpg" alt="Image" width="80" height="80" />
+    </div>
+      <div class="text">
+        <strong>Genya Ishigami</strong>
+        <em>Keio University</em> 
+      </div>
+</div>
+
+<br>
+<div class="container">
+    <div class="image">
+    <img style="float:left;padding-right:10px;padding-bottom:10px" 
+         align='middle'
+         src="images/speakers/example.jpg" alt="Image" width="80" height="80" />
+    </div>
+      <div class="text">
+        <strong>Philippe Giguère</strong>
+        <em>Université Laval</em> 
+      </div>
+</div>
+
+<br>
+<div class="container">
+    <div class="image">
+    <img style="float:left;padding-right:10px;padding-bottom:10px" 
+         align='middle'
+         src="images/speakers/example.jpg" alt="Image" width="80" height="80" />
+    </div>
+      <div class="text">
+        <strong>Johann Laconte</strong>
+        <em>French National Research Institute for Agriculture, Food and Environment (INRAE)</em> 
+      </div>
+</div>
 
 - [François Pomerleau](https://norlab.ulaval.ca/people/f_pomerleau_fr/), Professor, Université Laval
 - [Tim Barfoot](http://asrl.utias.utoronto.ca/~tdb/), Professor, University of Toronto
