@@ -9,10 +9,10 @@ This workshop will bring together experts, researchers, and practitioners to dis
 
 ## Important dates
 
-- Paper submission deadline: ???
-- Notification of acceptance: ???
-- Camera ready submission: ???
-- Workshop date: ???
+- Paper submission deadline: *TBD*
+- Notification of acceptance: *TBD*
+- Camera-ready submission: *TBD*
+- Workshop date: *TBD*
 
 # Program   
 
@@ -23,17 +23,17 @@ This workshop will bring together experts, researchers, and practitioners to dis
 | **9:35 - 9:55**   | **Johannes Betz** <br/>(Technical University of Munich)                  | Invited talk #2 - **Opportunities and Challenges with Autonomous Racing**                                         |
 | **9:55 - 10:25**  | Ten emerging researchers                                                 | Spotlight talks #1 (3 min/pers)                                                                                   |
 | **10:25 - 11:10** | Coffee break and poster session                                          |                                                                                                                   |
-| **11:10 - 11:30** | TBD - Co-chair of IEEE TC for Agriculture Robotics                       | Invited talk #3 - **Field Report on Agriculture Robotics**                                                        |
+| **11:10 - 11:30** | **Marija Popović** <br/> (University of Bonn)                            | Invited talk #3 - **Field Report on Agriculture Robotics**                                                        |
 | **11:30 - 11:50** | **Sebastian Scherer** <br/>(Carnegie Mellon University)                  | Invited talk #4 - **Recent Progress on DARPA’s Robotic Autonomy in Complex Environments with Resiliency (RACER)** |
 | **11:50 - 12:10** | TBD                                                                      |                                                                                                                   |
 | **12:10 - 13:30** | Lunch                                                                    |                                                                                                                   |
 | **13:30 - 14:30** | **Sanjiv Singh** <br/>(Carnegie Mellon University)                       | Keynote - **Overview of the Last 20 Years in Field Robotics**                                                     |
 | **14:30 - 15:00** | Ten emerging researchers                                                 | Spotlight talks #2 (3 min/pers)                                                                                   |
 | **15:00 - 15:45** | Coffee break and poster session                                          |                                                                                                                   |
-| **15:45 - 16:05** | **Cédric Pradalier** <br/>(Georgia Tech Lorraine)                        | Invited talk #6 - **Recent progress on ship inspections**                                                         |
+| **15:45 - 16:05** | **Yongliang Qiao** <br/>(University of Adelaide)                        | Invited talk #6 - **Towards Unmanned Farm: Some Applications of Robotics in Modern Agriculture**                                                         |
 | **16:05 - 16:25** | **Martin Saska** <br/>(Czech Technical University in Prague)             | Invited talk #7 - **Results of the Mohamed Bin Zayed International Robotics Challenge (MBZIRC)**                  |
 | **16:25 - 16:45** |  **Kostas Alexis** <br/>(Norwegian University of Science and Technology) | Invited talk #8 - **Resilient Autonomy in Perceptually-degraded Environments: Experiences from the field**        |
-| **16:45 - 17:05** | #todo                                                                    | Invited talk #9                                                                                                   |
+| **16:45 - 17:05** | **Keiji Nagatani** <br/>(University of Tokyo)                            | Invited talk #9 - **Collaborative AI robots for adaptation of diverse environments and innovation of infrastructure construction**                                                                                                  |
 | **17:05 - 17:30** | Organizers                                                               | Panel discussion and conclusion                                                                                   |
 
 ***Note**: All times are in the local time zone of ICRA 2024 (Yokohama).
@@ -117,7 +117,6 @@ This workshop will bring together experts, researchers, and practitioners to dis
       </div>
 </div>
 
-
 <div style="clear:left;">
 </div>
 <br>
@@ -125,12 +124,12 @@ This workshop will bring together experts, researchers, and practitioners to dis
     <div class="image">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
          align='middle'
-         src="images/speakers/example.jpg" alt="Image" width="150" height="150" />
+         src="images/speakers/yongliang_qiao.jpg" alt="Image" width="150" height="150" />
     </div>
       <div class="text">
-        <h3>TBD</h3>
-        <strong>TBD</strong><br/>
-        <em>TBD</em> 
+        <h3>Towards Unmanned Farm: Some Applications of Robotics in Modern Agriculture</h3>
+        <strong>Yongliang Qiao</strong><br/>
+        <em>University of Adelaide</em> 
       </div>
 </div>
 
@@ -188,7 +187,7 @@ This workshop will bring together experts, researchers, and practitioners to dis
 
 # Call for papers
 
-The workshop topics include, but not limited to:
+The workshop topics include, but are not limited to:
 
 - Agriculture
 - Construction
@@ -206,8 +205,8 @@ FR workshop accepts contributions based on the following criteria:
 
 - The submission should be about 2 pages long (excluding references). The paper should follow the [IEEE RAS template](http://ras.papercept.net/conferences/support/tex.php).
 - The review process is single-blind.
-- We welcome perspective and conceptual papers as well.
-- TODO: The papers should be submitted to this adress: ...
+- We welcome prospective and conceptual papers as well.
+- TODO: The papers should be submitted to this address: ...
 - Accepted papers will be available on the workshop website. The authors of accepted papers will be invited to present their results in a poster session during the workshop.
   
 
