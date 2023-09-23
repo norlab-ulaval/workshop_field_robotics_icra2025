@@ -221,7 +221,7 @@ FR workshop accepts contributions based on the following criteria:
       <div class="text">
         <strong>François Pomerleau</strong><br/>
         <em>Université Laval</em><br/>
-        <a href="https://norlab.ulaval.ca/people/f_pomerleau_fr/">Personal website</a>
+        <a href="https://norlab.ulaval.ca/people/f_pomerleau/">Personal website</a>
       </div>
 </div>
 
