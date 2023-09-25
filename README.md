@@ -208,7 +208,16 @@ FR workshop accepts contributions based on the following criteria:
 - We welcome prospective and conceptual papers as well.
 - TODO: The papers should be submitted to this address: ...
 - Accepted papers will be available on the workshop website. The authors of accepted papers will be invited to present their results in a poster session during the workshop.
-  
+
+# Technical Committee endorsements
+- [Agricultural Robotics and Automation (ARA)](https://www.ieee-ras.org/agricultural-robotics-automation)
+- [Automation in Health Care Management (AHCM)](https://www.ieee-ras.org/automation-in-health-care-management)
+- [Autonomous Ground Vehicles and Intelligent Transportation Systems (AGV-ITS)](https://www.ieee-ras.org/autonomous-ground-vehicles-and-intelligent-transportation-systems)
+- [Marine Robotics (MR)](https://www.ieee-ras.org/marine-robotics)
+- [Performance Evaluation and Benchmarking of Robotics and Autonomation Systems (PEBRAS)](https://www.ieee-ras.org/performance-evaluation)
+- [Robotics and Automation in Nuclear Facilities (RANF)](https://www.ieee-ras.org/robotics-and-automation-in-nuclear-facilities)
+- [Safety, Security, and Rescue Robotics (SSRR)](https://www.ieee-ras.org/safety-security-and-rescue-robotics)
+- [Space Robotics (SR)](https://www.ieee-ras.org/space-robotics)
 
 # Organizers
 
