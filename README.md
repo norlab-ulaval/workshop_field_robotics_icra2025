@@ -213,6 +213,7 @@ FR workshop accepts contributions based on the following criteria:
 - [Agricultural Robotics and Automation (ARA)](https://www.ieee-ras.org/agricultural-robotics-automation)
 - [Automation in Health Care Management (AHCM)](https://www.ieee-ras.org/automation-in-health-care-management)
 - [Autonomous Ground Vehicles and Intelligent Transportation Systems (AGV-ITS)](https://www.ieee-ras.org/autonomous-ground-vehicles-and-intelligent-transportation-systems)
+- [Energy, Environment, and Safety Issues in Robotics and Automation](https://www.ieee-ras.org/energy-environment-and-safety-issues-in-robotics-and-automation)
 - [Marine Robotics (MR)](https://www.ieee-ras.org/marine-robotics)
 - [Performance Evaluation and Benchmarking of Robotics and Autonomation Systems (PEBRAS)](https://www.ieee-ras.org/performance-evaluation)
 - [Robotics and Automation in Nuclear Facilities (RANF)](https://www.ieee-ras.org/robotics-and-automation-in-nuclear-facilities)
