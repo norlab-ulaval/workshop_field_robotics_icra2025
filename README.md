@@ -11,7 +11,7 @@ This workshop will bring together experts, researchers, and practitioners to dis
 
 - Paper submission deadline: *March 15, 2024, 11:59 p.m. (Anywhere on Earth)*
 - Notification of acceptance: *April 15, 2024*
-- Camera-ready submission: *May 1, 2023, 11:59 p.m. (Anywhere on Earth)*
+- Camera-ready submission: *May 1, 2024, 11:59 p.m. (Anywhere on Earth)*
 - Workshop date: *May 13, 2024*
 
 # Program   
