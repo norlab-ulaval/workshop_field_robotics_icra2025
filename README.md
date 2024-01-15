@@ -9,10 +9,10 @@ This workshop will bring together experts, researchers, and practitioners to dis
 
 ## Important dates
 
-- Paper submission deadline: *TBD*
-- Notification of acceptance: *TBD*
-- Camera-ready submission: *TBD*
-- Workshop date: *TBD*
+- Paper submission deadline: *March 15, 2024, 11:59 p.m. (Anywhere on Earth)*
+- Notification of acceptance: *April 15, 2024*
+- Camera-ready submission: *May 1, 2023, 11:59 p.m. (Anywhere on Earth)*
+- Workshop date: *May 13, 2024*
 
 # Program   
 
@@ -206,7 +206,7 @@ FR workshop accepts contributions based on the following criteria:
 - The submission should be about 2 pages long (excluding references). The paper should follow the [IEEE RAS template](http://ras.papercept.net/conferences/support/tex.php).
 - The review process is single-blind.
 - We welcome prospective and conceptual papers as well.
-- TODO: The papers should be submitted to this address: ...
+- The papers should be submitted to this address: TBD
 - Accepted papers will be available on the workshop website. The authors of accepted papers will be invited to present their results in a poster session during the workshop.
 
 # Technical Committee endorsements
