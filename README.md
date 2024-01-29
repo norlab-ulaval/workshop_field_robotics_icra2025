@@ -206,7 +206,7 @@ FR workshop accepts contributions based on the following criteria:
 - The submission should be about 2 pages long (excluding references). The paper should follow the [IEEE RAS template](http://ras.papercept.net/conferences/support/tex.php).
 - The review process is single-blind.
 - We welcome prospective and conceptual papers as well.
-- The papers should be submitted to this address: TBD
+- The papers should be submitted on Microsoft CMT: [FRICRA2024](https://cmt3.research.microsoft.com/FRICRA2024/)
 - Accepted papers will be available on the workshop website. The authors of accepted papers will be invited to present their results in a poster session during the workshop.
 
 # Technical Committee endorsements
