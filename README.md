@@ -307,6 +307,7 @@ FR workshop accepts contributions based on the following criteria:
         <a href="https://johannlac.github.io/">Personal website</a>
       </div>
 </div>
+<br>
 
 # Context
 <div style="text-align: justify">
