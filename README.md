@@ -14,7 +14,7 @@ This workshop will bring together experts, researchers, and practitioners to dis
 - Camera-ready submission: *May 1, 2024, 11:59 p.m. (Anywhere on Earth)*
 - Workshop date: *May 13, 2024*
 
-# Program   
+# Program (tentative)
 
 | **Time***         | **Speaker**                                                              | **Topic/title**                                                                                               |
 |-------------------|--------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
