@@ -20,7 +20,7 @@
 | **11:30 - 11:50** | **Sebastian Scherer** <br/>(Confirmed - Carnegie Mellon University)                  | Invited talk #4 - **Robust navigation in degraded environments in air and on land** |
 | **11:50 - 12:10** | TBD                                                                      |                                                                                                                   |
 | **12:10 - 13:30** | Lunch                                                                    |                                                                                                                   |
-| **13:30 - 14:30** | **Sanjiv Singh** <br/>(Carnegie Mellon University)                       | Keynote - **Overview of the Last 20 Years in Field Robotics**                                                     |
+| **13:30 - 14:30** | **Sanjiv Singh** <br/>(Confirmed - Carnegie Mellon University)                       | Keynote - **Overview of the Last 20 Years in Field Robotics**                                                     |
 | **14:30 - 15:00** | Ten emerging researchers                                                 | Spotlight talks #2 (3 min/pers)                                                                                   |
 | **15:00 - 15:45** | Coffee break and poster session                                          |                                                                                                                   |
 | **15:45 - 16:05** | **Yongliang Qiao** <br/>(University of Adelaide)                        | Invited talk #6 - **Towards Unmanned Farm: Some Applications of Robotics in Modern Agriculture**                                                         |
