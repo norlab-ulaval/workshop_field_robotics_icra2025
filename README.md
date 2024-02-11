@@ -26,7 +26,7 @@
 | **15:45 - 16:05** | **Yongliang Qiao** <br/>(University of Adelaide)                        | Invited talk #6 - **Towards Unmanned Farm: Some Applications of Robotics in Modern Agriculture**                                                         |
 | **16:05 - 16:25** | **Martin Saska** <br/>(Confirmed - Czech Technical University in Prague)             | Invited talk #7 - **Towards agile aerial swarming in the wild**                  |
 | **16:25 - 16:45** |  **Kostas Alexis** <br/>(Confirmed - Norwegian University of Science and Technology) | Invited talk #8 - **Resilient Autonomy in Perceptually-degraded Environments: Experiences from the field**        |
-| **16:45 - 17:05** | **Keiji Nagatani** <br/>(University of Tokyo)                            | Invited talk #9 - **Collaborative AI robots for adaptation of diverse environments and innovation of infrastructure construction**                                                                                                  |
+| **16:45 - 17:05** | **Keiji Nagatani** <br/>(Confirmed - The University of Tokyo)                            | Invited talk #9 - **Collaborative AI robots for adaptation of diverse environments and innovation of infrastructure construction**                                                                                                  |
 | **17:05 - 17:30** | Organizers                                                               | Panel discussion and conclusion                                                                                   |
 
 ***Note**: All times are in the local time zone of ICRA 2024 (Yokohama).
@@ -170,7 +170,7 @@
       <div class="text">
         <h3>Collaborative AI robots for adaptation of diverse environments and innovation of infrastructure construction</h3>
         <strong>Keiji Nagatani</strong><br/>
-        <em>University of Tokyo</em> 
+        <em>The University of Tokyo</em> 
       </div>
 </div>
 
