@@ -43,7 +43,8 @@ All invited speakers are confirmed.
       <div class="text">
         <h3>Deployment of robotic systems for decommissioning and clean-up of radioactive facilities</h3>
         <strong>Barry Lennox</strong><br/>
-        <em>University of Manchester</em> 
+        <em>University of Manchester</em>  <br/>
+        <a href="https://research.manchester.ac.uk/en/persons/barry.lennox">Personal website</a>
       </div>
 </div>
 
@@ -59,7 +60,8 @@ All invited speakers are confirmed.
       <div class="text">
         <h3>Opportunities and Challenges with Autonomous Racing</h3>
         <strong>Johannes Betz</strong><br/>
-        <em>Technical University of Munich</em> 
+        <em>Technical University of Munich</em>  <br/>
+        <a href="https://www.mos.ed.tum.de/en/avs/team/prof-dr-ing-johannes-betz/">Personal website</a>
       </div>
 </div>
 
@@ -75,7 +77,8 @@ All invited speakers are confirmed.
       <div class="text">
         <h3>UAV Path Planning for Agricultural Applications</h3>
         <strong>Marija Mpopovic</strong><br/>
-        <em>University of Bonn</em> 
+        <em>University of Bonn</em>  <br/>
+        <a href="https://dmar-bonn.com/">Personal website</a>
       </div>
 </div>
 
@@ -91,7 +94,8 @@ All invited speakers are confirmed.
       <div class="text">
         <h3>Robust navigation in degraded environments in air and on land</h3>
         <strong>Sebastian Scherer</strong><br/>
-        <em>Carnegie Mellon University, Robotics Institute</em> 
+        <em>Carnegie Mellon University, Robotics Institute</em>  <br/>
+        <a href="https://www.ri.cmu.edu/ri-faculty/sebastian-scherer/">Personal website</a>
       </div>
 </div>
 
@@ -107,7 +111,8 @@ All invited speakers are confirmed.
       <div class="text">
         <h3>Overview of the Last 20 Years in Field Robotics</h3>
         <strong>Sanjiv Singh</strong><br/>
-        <em>Carnegie Mellon University</em> 
+        <em>Carnegie Mellon University</em>  <br/>
+        <a href="https://www.ri.cmu.edu/ri-faculty/sanjiv-singh/">Personal website</a>
       </div>
 </div>
 
@@ -123,7 +128,8 @@ All invited speakers are confirmed.
       <div class="text">
         <h3>Towards Unmanned Farm: Some Applications of Robotics in Modern Agriculture</h3>
         <strong>Yongliang Qiao</strong><br/>
-        <em>University of Adelaide</em> 
+        <em>University of Adelaide</em>  <br/>
+        <a href="https://researchers.adelaide.edu.au/profile/yongliang.qiao">Personal website</a>
       </div>
 </div>
 
@@ -139,7 +145,8 @@ All invited speakers are confirmed.
       <div class="text">
         <h3>Towards agile aerial swarming in the wild</h3>
         <strong>Martin Saska</strong><br/>
-        <em>Czech Technical University in Prague</em> 
+        <em>Czech Technical University in Prague</em>  <br/>
+        <a href="https://mrs.felk.cvut.cz/people/martin-saska">Personal website</a>
       </div>
 </div>
 
@@ -155,7 +162,8 @@ All invited speakers are confirmed.
       <div class="text">
         <h3>Resilient Autonomy in Perceptually-degraded Environments: Experiences from the field</h3>
         <strong>Kostas Alexis</strong><br/>
-        <em>Norwegian University of Science and Technology (NTNU)</em> 
+        <em>Norwegian University of Science and Technology (NTNU)</em>  <br/>
+        <a href="http://www.kostasalexis.com/">Personal website</a>
       </div>
 </div>
 
@@ -171,7 +179,8 @@ All invited speakers are confirmed.
       <div class="text">
         <h3>Collaborative AI robots for adaptation of diverse environments and innovation of infrastructure construction</h3>
         <strong>Keiji Nagatani</strong><br/>
-        <em>The University of Tokyo</em> 
+        <em>The University of Tokyo</em> <br/>
+        <a href="http://k-nagatani.org/">Personal website</a>
       </div>
 </div>
 
