@@ -12,18 +12,18 @@
 | **Time***         | **Speaker**                                                              | **Topic/title**                                                                                               |
 |-------------------|--------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
 | **9:00 - 9:15**   | Organizers                                                               | Welcome and opening remarks                                                                                       |
-| **9:15 - 9:35**   | **Barry Lennox** <br/>(Confirmed - University of Manchester)                         | Invited talk #1 - **Deployment of Robotic Systems for Decommissioning and Clean-up of Radioactive Facilities**   |
-| **9:35 - 9:55**   | **Johannes Betz** <br/>(Confirmed - Technical University of Munich)                  | Invited talk #2 - **Opportunities and Challenges with Autonomous Racing**                                         |
+| **9:15 - 9:35**   | **Barry Lennox** <br/>(Confirmed - University of Manchester)             | Invited talk #1 - **Deployment of Robotic Systems for Decommissioning and Clean-up of Radioactive Facilities**   |
+| **9:35 - 9:55**   | **Johannes Betz** <br/>(Confirmed - Technical University of Munich)      | Invited talk #2 - **Opportunities and Challenges with Autonomous Racing**                                         |
 | **9:55 - 10:25**  | Ten emerging researchers                                                 | Spotlight talks #1 (3 min/pers)                                                                                   |
 | **10:25 - 11:10** | Coffee break and poster session                                          |                                                                                                                   |
-| **11:10 - 11:30** | **Marija Popović** <br/> (University of Bonn)                            | Invited talk #3 - **Field Report on Agriculture Robotics**                                                        |
-| **11:30 - 11:50** | **Sebastian Scherer** <br/>(Confirmed - Carnegie Mellon University)                  | Invited talk #4 - **Robust navigation in degraded environments in air and on land** |
-| **11:50 - 12:10** | TBD                                                                      |                                                                                                                   |
+| **11:10 - 11:30** | **Marija Popović** <br/> (Confirmed - University of Bonn)                | Invited talk #3 - **UAV Path Planning for Agricultural Applications**                                                        |
+| **11:30 - 11:50** | **Sebastian Scherer** <br/>(Confirmed - Carnegie Mellon University)      | Invited talk #4 - **Robust navigation in degraded environments in air and on land** |
+| **11:50 - 12:10** | Special Annoncement for Field Roboticists                                |                                                                                                                   |
 | **12:10 - 13:30** | Lunch                                                                    |                                                                                                                   |
-| **13:30 - 14:30** | **Sanjiv Singh** <br/>(Confirmed - Carnegie Mellon University)                       | Keynote - **Overview of the Last 20 Years in Field Robotics**                                                     |
+| **13:30 - 14:30** | **Sanjiv Singh** <br/>(Confirmed - Carnegie Mellon University)           | Keynote - **Overview of the Last 20 Years in Field Robotics**                                                     |
 | **14:30 - 15:00** | Ten emerging researchers                                                 | Spotlight talks #2 (3 min/pers)                                                                                   |
 | **15:00 - 15:45** | Coffee break and poster session                                          |                                                                                                                   |
-| **15:45 - 16:05** | **Yongliang Qiao** <br/>(Confirmed - University of Adelaide)                        | Invited talk #6 - **Towards Unmanned Farm: Some Applications of Robotics in Modern Agriculture**                                                         |
+| **15:45 - 16:05** | **Yongliang Qiao** <br/>(Confirmed - University of Adelaide)             | Invited talk #6 - **Towards Unmanned Farm: Some Applications of Robotics in Modern Agriculture**                                                         |
 | **16:05 - 16:25** | **Martin Saska** <br/>(Confirmed - Czech Technical University in Prague)             | Invited talk #7 - **Towards agile aerial swarming in the wild**                  |
 | **16:25 - 16:45** |  **Kostas Alexis** <br/>(Confirmed - Norwegian University of Science and Technology) | Invited talk #8 - **Resilient Autonomy in Perceptually-degraded Environments: Experiences from the field**        |
 | **16:45 - 17:05** | **Keiji Nagatani** <br/>(Confirmed - The University of Tokyo)                            | Invited talk #9 - **Collaborative AI robots for adaptation of diverse environments and innovation of infrastructure construction**                                                                                                  |
@@ -72,7 +72,7 @@
          src="images/speakers/marija_mpopovic.jpg" alt="Image" width="150" height="150" />
     </div>
       <div class="text">
-        <h3>Field Report on Agriculture Robotics</h3>
+        <h3>UAV Path Planning for Agricultural Applications</h3>
         <strong>Marija Mpopovic</strong><br/>
         <em>University of Bonn</em> 
       </div>
