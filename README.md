@@ -17,9 +17,9 @@ All invited speakers are confirmed.
 | **9:35 - 9:55**   | **Johannes Betz** <br/>(Technical University of Munich)                  | Invited talk #2 - **Opportunities and Challenges with Autonomous Racing**                                         |
 | **9:55 - 10:25**  | Ten emerging researchers                                                 | Spotlight talks #1 (3 min/pers)                                                                                   |
 | **10:25 - 11:10** | Coffee break and poster session                                          |                                                                                                                   |
-| **11:10 - 11:30** | **Marija Popović** <br/> (University of Bonn)                            | Invited talk #3 - **UAV Path Planning for Agricultural Applications**                                                        |
+| **11:10 - 11:30** | **Marija Popović** <br/> (University of Bonn)                            | Invited talk #3 - **UAV Path Planning for Agricultural Applications**                                             |
 | **11:30 - 11:50** | **Sebastian Scherer** <br/>(Carnegie Mellon University)                  | Invited talk #4 - **Robust navigation in degraded environments in air and on land** |
-| **11:50 - 12:10** | Special Annoncement for Field Roboticists                                |                                                                                                                   |
+| **11:50 - 12:10** | Organizers                                                               | Discussion on the [IEEE Transaction of Field Robotics (T-FR)](https://www.ieee-ras.org/publications/t-fr)         |
 | **12:10 - 13:30** | Lunch                                                                    |                                                                                                                   |
 | **13:30 - 14:30** | **Sanjiv Singh** <br/>(Carnegie Mellon University)                       | Keynote - **Overview of the Last 20 Years in Field Robotics**                                                     |
 | **14:30 - 15:00** | Ten emerging researchers                                                 | Spotlight talks #2 (3 min/pers)                                                                                   |
