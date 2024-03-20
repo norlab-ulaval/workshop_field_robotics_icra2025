@@ -2,7 +2,7 @@
 
 ## Important dates
 
-- Paper submission deadline: *March 20, 2024, 11:59 p.m. (Anywhere on Earth)*
+- Paper submission deadline: ~~March 20, 2024, 11:59 p.m. (Anywhere on Earth)~~ <span style="color:red; font-weight: bold;"> April 03, 2024, 11:59 p.m. (Anywhere on Earth) </span>
 - Notification of acceptance: *April 15, 2024*
 - Camera-ready submission: *May 1, 2024, 11:59 p.m. (Anywhere on Earth)*
 - Workshop date: *May 13, 2024*
