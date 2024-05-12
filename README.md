@@ -13,7 +13,7 @@ All invited speakers are confirmed.
 | **Time***         | **Speaker**                                                              | **Topic/title**                                                                                               |
 |-------------------|--------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
 | **9:00 - 9:15**   | Organizers                                                               | Welcome and opening remarks                                                                                       |
-| **9:15 - 9:35**   | **Barry Lennox** <br/>(University of Manchester)                         | Invited talk #1 - **Deployment of Robotic Systems for Decommissioning and Clean-up of Radioactive Facilities**   |
+| **9:15 - 9:35**   | **Simon Watson** <br/>(University of Manchester)                         | Invited talk #1 - **Deployment of Robotic Systems for Decommissioning and Clean-up of Radioactive Facilities**   |
 | **9:35 - 9:55**   | **Johannes Betz** <br/>(Technical University of Munich)                  | Invited talk #2 - **Opportunities and Challenges with Autonomous Racing**                                         |
 | **9:55 - 10:25**  | Ten emerging researchers                                                 | Spotlight talks #1 (3 min/pers)                                                                                   |
 | **10:25 - 11:10** | Coffee break and poster session                                          |                                                                                                                   |
@@ -38,13 +38,13 @@ All invited speakers are confirmed.
     <div class="image">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
          align='middle'
-         src="images/speakers/barry_lennox.jpeg" alt="Image" width="150" height="150" />
+         src="images/speakers/simon_watson.jpg" alt="Image" width="150" height="150" />
     </div>
       <div class="text">
         <h3>Deployment of robotic systems for decommissioning and clean-up of radioactive facilities</h3>
-        <strong>Barry Lennox</strong><br/>
+        <strong>Simon Watson</strong><br/>
         <em>University of Manchester</em>  <br/>
-        <a href="https://research.manchester.ac.uk/en/persons/barry.lennox">Personal website</a>
+        <a href="https://research.manchester.ac.uk/en/persons/simon.watson">Personal website</a>
       </div>
 </div>
 
