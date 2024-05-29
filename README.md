@@ -3,7 +3,7 @@
 # Thanks!
 The workshop on Field Robotics is over and was a tremendous success!
 We received many contributions, out of which the accepted papers are listed in the following section, high quality talks, and had estimated the attendance to 250 researchers.
-The workshop was the most crowed room of the workshop demonstrating a need to gather field roboticists to share experiences and lessons learned.
+The workshop was the most crowded room of the day, demonstrating a clear need for field roboticists to gather and share experiences and lessons learned.
 
 # Accepted papers
 
