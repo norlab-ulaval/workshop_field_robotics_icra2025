@@ -6,6 +6,8 @@ We received many contributions, out of which the accepted papers are listed in t
 The workshop was the most crowded room of the day, demonstrating a clear need for field roboticists to gather and share experiences and lessons learned.
 
 # Accepted papers
+
+
 |                                                                                                                                                                                                                                                                                                                                                                    |
 |:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **[3D Mapping of Glacier Moulins: Challenges and lessons learned](http://arxiv.org/abs/2404.18790)**<br>Dubois, William; Laconte, Johann; Pomerleau, François; Boxan, Matej                                                                                                                                                                                            |
