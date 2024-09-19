@@ -69,7 +69,7 @@ FR workshop accepts contributions based on the following criteria:
 - The review process is single-blind.
 - Submissions should contain a clear focus on field robotics and feature lessons learned and/or field experience reports.
 - We welcome prospective and conceptual papers as well.
-- The papers should be submitted on Microsoft CMT: [FRICRA2024](https://cmt3.research.microsoft.com/FRICRA2024/)
+- The papers should be submitted on Microsoft CMT: *TBD* 
 - Accepted papers will be available on the workshop website. The authors of accepted papers will be invited to present their results in a poster session during the workshop.
 
 # Organizers
@@ -150,7 +150,6 @@ FR workshop accepts contributions based on the following criteria:
         <a href="https://johannlac.github.io/">Personal website</a>
       </div>
 </div>
-<br>
 
 <div style="clear:left;">
 </div>
