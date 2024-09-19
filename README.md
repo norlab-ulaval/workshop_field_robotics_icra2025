@@ -21,22 +21,7 @@ All invited speakers are confirmed.
 | **Time***         | **Speaker**                                                              | **Topic/title**                                                                                               |
 |-------------------|--------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
 | **9:00 - 9:15**   | Organizers                                                               | Welcome and opening remarks                                                                                       |
-| **9:15 - 9:35**   | **Simon Watson** <br/>(University of Manchester)                         | Invited talk #1 - **Deployment of Robotic Systems for Decommissioning and Clean-up of Radioactive Facilities**   |
-| **9:35 - 9:55**   | **Johannes Betz** <br/>(Technical University of Munich)                  | Invited talk #2 - **Opportunities and Challenges with Autonomous Racing**                                         |
-| **9:55 - 10:25**  | Ten emerging researchers                                                 | Spotlight talks #1 (3 min/pers)                                                                                   |
-| **10:25 - 11:10** | Coffee break and poster session                                          |                                                                                                                   |
-| **11:10 - 11:30** | **Marija Popović** <br/> (University of Bonn)                            | Invited talk #3 - **UAV Path Planning for Agricultural Applications**                                             |
-| **11:30 - 11:50** | **Sebastian Scherer** <br/>(Carnegie Mellon University)                  | Invited talk #4 - **Robust navigation in degraded environments in air and on land** |
-| **11:50 - 12:10** | Organizers                                                               | Discussion on the [IEEE Transactions on Field Robotics (T-FR)](https://www.ieee-ras.org/publications/t-fr)         |
-| **12:10 - 13:30** | Lunch                                                                    |                                                                                                                   |
-| **13:30 - 14:30** | **Sanjiv Singh** <br/>(Carnegie Mellon University)                       | Keynote - **Overview of the Last 20 Years in Field Robotics**                                                     |
-| **14:30 - 15:00** | Ten emerging researchers                                                 | Spotlight talks #2 (3 min/pers)                                                                                   |
-| **15:00 - 15:45** | Coffee break and poster session                                          |                                                                                                                   |
-| **15:45 - 16:05** | **Yongliang Qiao** <br/>(University of Adelaide)                         | Invited talk #6 - **Towards Unmanned Farm: Some Applications of Robotics in Modern Agriculture**                  |
-| **16:05 - 16:25** | **Martin Saska** <br/>(Czech Technical University in Prague)             | Invited talk #7 - **Towards agile aerial swarming in the wild**                  |
-| **16:25 - 16:45** |  **Kostas Alexis** <br/>(Norwegian University of Science and Technology) | Invited talk #8 - **Resilient Autonomy in Perceptually-degraded Environments: Experiences from the field**        |
-| **16:45 - 17:05** | **Keiji Nagatani** <br/>(The University of Tokyo)                        | Invited talk #9 - **Collaborative AI robots for adaptation of diverse environments and innovation of infrastructure construction**         |
-| **17:05 - 17:30** | Organizers                                                               | Panel discussion and conclusion                                                                                   |
+| **TBD**   | TBD                                                               | TBD                                                                                       |
 
 ***Note**: All times are in the local time zone of ICRA 2025 (Atlanta).
 
@@ -47,13 +32,13 @@ All invited speakers are confirmed.
     <div class="image">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
          align='middle'
-         src="images/speakers/.jpg" alt="Image" width="150" height="150" />
+         src="images/speakers/example.jpg" alt="Image" width="150" height="150" />
     </div>
       <div class="text">
-        <h3>Deployment of robotic systems for decommissioning and clean-up of radioactive facilities</h3>
-        <strong>Simon Watson</strong><br/>
-        <em>University of Manchester</em>  <br/>
-        <a href="https://research.manchester.ac.uk/en/persons/simon.watson">Personal website</a>
+        <h3>Title of presentation</h3>
+        <strong>Name</strong><br/>
+        <em>Affiliation</em>  <br/>
+        <a href="">Personal website</a>
       </div>
 </div>
 
@@ -86,17 +71,6 @@ FR workshop accepts contributions based on the following criteria:
 - We welcome prospective and conceptual papers as well.
 - The papers should be submitted on Microsoft CMT: [FRICRA2024](https://cmt3.research.microsoft.com/FRICRA2024/)
 - Accepted papers will be available on the workshop website. The authors of accepted papers will be invited to present their results in a poster session during the workshop.
-
-# Technical Committee endorsements
-- [Agricultural Robotics and Automation (ARA)](https://www.ieee-ras.org/agricultural-robotics-automation)
-- [Automation in Health Care Management (AHCM)](https://www.ieee-ras.org/automation-in-health-care-management)
-- [Autonomous Ground Vehicles and Intelligent Transportation Systems (AGV-ITS)](https://www.ieee-ras.org/autonomous-ground-vehicles-and-intelligent-transportation-systems)
-- [Energy, Environment, and Safety Issues in Robotics and Automation](https://www.ieee-ras.org/energy-environment-and-safety-issues-in-robotics-and-automation)
-- [Marine Robotics (MR)](https://www.ieee-ras.org/marine-robotics)
-- [Performance Evaluation and Benchmarking of Robotics and Autonomation Systems (PEBRAS)](https://www.ieee-ras.org/performance-evaluation)
-- [Robotics and Automation in Nuclear Facilities (RANF)](https://www.ieee-ras.org/robotics-and-automation-in-nuclear-facilities)
-- [Safety, Security, and Rescue Robotics (SSRR)](https://www.ieee-ras.org/safety-security-and-rescue-robotics)
-- [Space Robotics (SR)](https://www.ieee-ras.org/space-robotics)
 
 # Organizers
 
@@ -136,28 +110,12 @@ FR workshop accepts contributions based on the following criteria:
     <div class="image">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
          align='middle'
-         src="images/organizers/marco_hutter.jpg" alt="Image" width="80" height="80" />
+         src="images/organizers/keiji_nagatani.jpg" alt="Image" width="80" height="80" />
     </div>
       <div class="text">
-        <strong>Marco Hutter</strong><br/>
-        <em>ETH Zurich</em> <br/>
-        <a href="https://rsl.ethz.ch/the-lab/people/person-detail.MTIxOTEx.TGlzdC8yNDQxLC0xNDI1MTk1NzM1.html">Personal website</a>
-      </div>
-</div>
-
-<div style="clear:left;">
-</div>
-<br>
-<div class="container">
-    <div class="image">
-    <img style="float:left;padding-right:10px;padding-bottom:10px" 
-         align='middle'
-         src="images/organizers/ishigami_genya.jpg" alt="Image" width="80" height="80" />
-    </div>
-      <div class="text">
-        <strong>Genya Ishigami</strong><br/>
-        <em>Keio University</em> <br/>
-        <a href="https://www.st.keio.ac.jp/en/tprofile/mech/ishigami.html">Personal website</a>
+        <strong>Keiji Nagatani</strong><br/>
+        <em>University of Tokyo</em> <br/>
+        <a href="http://k-nagatani.org/">Personal website</a>
       </div>
 </div>
 
@@ -194,5 +152,20 @@ FR workshop accepts contributions based on the following criteria:
 </div>
 <br>
 
+<div style="clear:left;">
+</div>
+<br>
+<div class="container">
+    <div class="image">
+    <img style="float:left;padding-right:10px;padding-bottom:10px" 
+         align='middle'
+         src="images/organizers/joshua_mangelson.jpg" alt="Image" width="80" height="80" />
+    </div>
+      <div class="text">
+        <strong>Joshua Mangelson </strong><br/>
+        <em>Brigham Young University</em> <br/>
+        <a href="https://ece.byu.edu/directory/josh-mangelson">Personal website</a>
+      </div>
+</div>
 
 
