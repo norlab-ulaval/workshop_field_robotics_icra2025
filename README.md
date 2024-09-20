@@ -199,36 +199,11 @@ The workshop will also feature a competition designed to address key challenges 
 Participants will have access to extensive datasets, including recordings from wheeled, tracked, and multi-legged robots navigating challenging off-road terrains. Besides vision data, these datasets will feature RADAR-based perception data for off-road environments and multispectral data for scenarios where passive sensors are crucial. Competitors will submit solutions for tasks like semantic segmentation and localization. Top-performing participants will present their results at the ICRA 2025 workshop, with prizes of 500 EUR, 300 EUR, and 200 EUR awarded to the 1st, 2nd, and 3rd place winners, respectively. The competition's aim is to tackle the unique challenges of perception and localization for field robots, fostering innovations in sensor technologies that enable autonomous operation in unstructured and demanding environments.
 
 ## Competition Organizers
-<div style="display: flex; flex-direction: row; justify-content: space-around; align-items: flex-start; width: 100%;">
-    <div style="text-align: center;">
-        <img src="images/workshop/jan_faigl.png" alt="Image 1" width="80" height="80">
-        <p>Jan Faigl</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="images/workshop/gerald_steinbauer_wagner.jpg" alt="Image 2" width="80" height="80">
-        <p>Gerald Steinbauer-Wagner</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="images/workshop/milos_pragr.jpg" alt="Image 3" width="80" height="80">
-        <p>Miloš Prágr</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="images/workshop/raphael_hagmanns.jpg" alt="Image 4" width="80" height="80">
-        <p>Raphael Hagmanns</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="images/workshop/miguel_granero.jpeg" alt="Image 4" width="80" height="80">
-        <p>Miguel Granero</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="images/workshop/vladimir_kubelka.jpg" alt="Image 4" width="80" height="80">
-        <p>Vladimír Kubelka</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="images/workshop/peter_mortimer.jpg" alt="Image 4" width="80" height="80">
-        <p>Peter Mortimer</p>
-    </div>
-</div>
+
+| ![Jan Faigl](images/workshop/jan_faigl.png) | ![Gerald Steinbauer-Wagner](images/workshop/gerald_steinbauer_wagner.jpg) | ![Miloš Prágr](images/workshop/milos_pragr.jpg) | ![Raphael Hagmanns](images/workshop/raphael_hagmanns.jpg) | ![Miguel Granero](images/workshop/miguel_granero.jpeg) | ![Vladimír Kubelka](images/workshop/vladimir_kubelka.jpg) | ![Peter Mortimer](images/workshop/peter_mortimer.jpg) |
+|:-------------------------------------------:|:-------------------------------------------------------------------------:|:-----------------------------------------------:|:--------------------------------------------------------:|:-------------------------------------------------------:|:--------------------------------------------------------:|:-------------------------------------------------------:|
+| **Jan Faigl**                               | **Gerald Steinbauer-Wagner**                                              | **Miloš Prágr**                                  | **Raphael Hagmanns**                                      | **Miguel Granero**                                       | **Vladimír Kubelka**                                      | **Peter Mortimer**                                       |
+
 
 
 # Organizers
