@@ -200,15 +200,16 @@ Participants will have access to extensive datasets, including recordings from w
 
 ## Competition Organizers
 
+
 <table>
   <tr>
-    <td style="text-align: center; width: 80px;"><img src="images/workshop/jan_faigl.png" alt="Jan Faigl" width="80" height="80"><br><strong>Jan Faigl</strong></td>
-    <td style="text-align: center; width: 80px;"><img src="images/workshop/gerald_steinbauer_wagner.jpg" alt="Gerald Steinbauer-Wagner" width="80" height="80"><br><strong>Gerald Steinbauer-Wagner</strong></td>
-    <td style="text-align: center; width: 80px;"><img src="images/workshop/milos_pragr.jpg" alt="Miloš Prágr" width="80" height="80"><br><strong>Miloš Prágr</strong></td>
-    <td style="text-align: center; width: 80px;"><img src="images/workshop/raphael_hagmanns.jpg" alt="Raphael Hagmanns" width="80" height="80"><br><strong>Raphael Hagmanns</strong></td>
-    <td style="text-align: center; width: 80px;"><img src="images/workshop/miguel_granero.jpeg" alt="Miguel Granero" width="80" height="80"><br><strong>Miguel Granero</strong></td>
-    <td style="text-align: center; width: 80px;"><img src="images/workshop/vladimir_kubelka.jpg" alt="Vladimír Kubelka" width="80" height="80"><br><strong>Vladimír Kubelka</strong></td>
-    <td style="text-align: center; width: 80px;"><img src="images/workshop/peter_mortimer.jpg" alt="Peter Mortimer" width="80" height="80"><br><strong>Peter Mortimer</strong></td>
+    <td style="text-align: center; width: 80px;"><img src="images/workshop/jan_faigl.png" alt="Jan Faigl" style="width: 80px; height: 80px;"><br><strong>Jan Faigl</strong></td>
+    <td style="text-align: center; width: 80px;"><img src="images/workshop/gerald_steinbauer_wagner.jpg" alt="Gerald Steinbauer-Wagner" style="width: 80px; height: 80px;"><br><strong>Gerald Steinbauer-Wagner</strong></td>
+    <td style="text-align: center; width: 80px;"><img src="images/workshop/milos_pragr.jpg" alt="Miloš Prágr" style="width: 80px; height: 80px;"><br><strong>Miloš Prágr</strong></td>
+    <td style="text-align: center; width: 80px;"><img src="images/workshop/raphael_hagmanns.jpg" alt="Raphael Hagmanns" style="width: 80px; height: 80px;"><br><strong>Raphael Hagmanns</strong></td>
+    <td style="text-align: center; width: 80px;"><img src="images/workshop/miguel_granero.jpeg" alt="Miguel Granero" style="width: 80px; height: 80px;"><br><strong>Miguel Granero</strong></td>
+    <td style="text-align: center; width: 80px;"><img src="images/workshop/vladimir_kubelka.jpg" alt="Vladimír Kubelka" style="width: 80px; height: 80px;"><br><strong>Vladimír Kubelka</strong></td>
+    <td style="text-align: center; width: 80px;"><img src="images/workshop/peter_mortimer.jpg" alt="Peter Mortimer" style="width: 80px; height: 80px;"><br><strong>Peter Mortimer</strong></td>
   </tr>
 </table>
 
