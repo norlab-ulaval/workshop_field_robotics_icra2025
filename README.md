@@ -202,13 +202,13 @@ Participants will have access to extensive datasets, including recordings from w
 
 <table>
   <tr>
-    <td><img src="images/workshop/jan_faigl.png" alt="Jan Faigl" width="80" style="height:auto;"><br><strong>Jan Faigl</strong></td>
-    <td><img src="images/workshop/gerald_steinbauer_wagner.jpg" alt="Gerald Steinbauer-Wagner" width="80" style="height:auto;"><br><strong>Gerald Steinbauer-Wagner</strong></td>
-    <td><img src="images/workshop/milos_pragr.jpg" alt="Miloš Prágr" width="80" style="height:auto;"><br><strong>Miloš Prágr</strong></td>
-    <td><img src="images/workshop/raphael_hagmanns.jpg" alt="Raphael Hagmanns" width="80" style="height:auto;"><br><strong>Raphael Hagmanns</strong></td>
-    <td><img src="images/workshop/miguel_granero.jpeg" alt="Miguel Granero" width="80" style="height:auto;"><br><strong>Miguel Granero</strong></td>
-    <td><img src="images/workshop/vladimir_kubelka.jpg" alt="Vladimír Kubelka" width="80" style="height:auto;"><br><strong>Vladimír Kubelka</strong></td>
-    <td><img src="images/workshop/peter_mortimer.jpg" alt="Peter Mortimer" width="80" style="height:auto;"><br><strong>Peter Mortimer</strong></td>
+    <td style="text-align: center; width: 80px;"><img src="images/workshop/jan_faigl.png" alt="Jan Faigl" width="80" height="80"><br><strong>Jan Faigl</strong></td>
+    <td style="text-align: center; width: 80px;"><img src="images/workshop/gerald_steinbauer_wagner.jpg" alt="Gerald Steinbauer-Wagner" width="80" height="80"><br><strong>Gerald Steinbauer-Wagner</strong></td>
+    <td style="text-align: center; width: 80px;"><img src="images/workshop/milos_pragr.jpg" alt="Miloš Prágr" width="80" height="80"><br><strong>Miloš Prágr</strong></td>
+    <td style="text-align: center; width: 80px;"><img src="images/workshop/raphael_hagmanns.jpg" alt="Raphael Hagmanns" width="80" height="80"><br><strong>Raphael Hagmanns</strong></td>
+    <td style="text-align: center; width: 80px;"><img src="images/workshop/miguel_granero.jpeg" alt="Miguel Granero" width="80" height="80"><br><strong>Miguel Granero</strong></td>
+    <td style="text-align: center; width: 80px;"><img src="images/workshop/vladimir_kubelka.jpg" alt="Vladimír Kubelka" width="80" height="80"><br><strong>Vladimír Kubelka</strong></td>
+    <td style="text-align: center; width: 80px;"><img src="images/workshop/peter_mortimer.jpg" alt="Peter Mortimer" width="80" height="80"><br><strong>Peter Mortimer</strong></td>
   </tr>
 </table>
 
