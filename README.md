@@ -215,6 +215,8 @@ Participants will have access to extensive datasets, including recordings from w
       <td style="width: 80px; vertical-align: top; height: 120px;">
         <img src="images/workshop/raphael_hagmanns.jpg" alt="Raphael Hagmanns" style="max-width: 80px; height: auto;"><br><strong>Raphael Hagmanns</strong>
       </td>
+    </tr>
+    <tr>
       <td style="width: 80px; vertical-align: top; height: 120px;">
         <img src="images/workshop/miguel_granero.jpeg" alt="Miguel Granero" style="max-width: 80px; height: auto;"><br><strong>Miguel Granero</strong>
       </td>
@@ -227,6 +229,7 @@ Participants will have access to extensive datasets, including recordings from w
     </tr>
   </table>
 </div>
+
 
 
 
