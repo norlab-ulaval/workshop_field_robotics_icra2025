@@ -38,7 +38,7 @@ This workshop will bring together experts, researchers, and practitioners to dis
 
 
 # Speakers  
-<!-- copy paste this for each speaker-->
+<!-- copy paste this for each speaker
 <div class="container">
     <div class="image">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
@@ -56,7 +56,114 @@ This workshop will bring together experts, researchers, and practitioners to dis
 <div style="clear:left;">
 </div>
 <br>
-<!-- end speaker1-->
+end speaker1-->
+
+<div class="container">
+    <div class="image">
+    <img style="float:left;padding-right:10px;padding-bottom:10px" 
+         align='middle'
+         src="images/speakers/example.jpg" alt="Image" width="150" height="150" />
+    </div>
+      <div class="text">
+        <h3>Tentative title: Navigation, mapping, planning, and control applied to autonomous marine systems</h3>
+        <strong>Stephan Williams</strong><br/>
+        <em>The University of Sydney</em>  <br/>
+        <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/stefan-williams.html ">Personal website</a>
+      </div>
+</div>
+
+<div style="clear:left;">
+</div>
+<br>
+
+<div class="container">
+    <div class="image">
+    <img style="float:left;padding-right:10px;padding-bottom:10px" 
+         align='middle'
+         src="images/speakers/example.jpg" alt="Image" width="150" height="150" />
+    </div>
+      <div class="text">
+        <h3>Tentative title: Robots come to the rescue after a disaster</h3>
+        <strong>Robin Murphy</strong><br/>
+        <em>Texas A&M University</em>  <br/>
+        <a href="https://engineering.tamu.edu/cse/profiles/rmurphy.html">Personal website</a>
+      </div>
+</div>
+
+<div style="clear:left;">
+</div>
+<br>
+
+<div class="container">
+    <div class="image">
+    <img style="float:left;padding-right:10px;padding-bottom:10px" 
+         align='middle'
+         src="images/speakers/example.jpg" alt="Image" width="150" height="150" />
+    </div>
+      <div class="text">
+        <h3>Tentative title: 27 Years of Climbing and Walking Robots – Are We There?</h3>
+        <strong>Marco Hutter</strong><br/>
+        <em>ETH Zurich</em>  <br/>
+        <a href="https://rsl.ethz.ch/the-lab/people/person-detail.html?persid=121911">Personal website</a>
+      </div>
+</div>
+
+<div style="clear:left;">
+</div>
+<br>
+
+<div class="container">
+    <div class="image">
+    <img style="float:left;padding-right:10px;padding-bottom:10px" 
+         align='middle'
+         src="images/speakers/example.jpg" alt="Image" width="150" height="150" />
+    </div>
+      <div class="text">
+        <h3>Tentative title: Can these farming robots save agriculture?</h3>
+        <strong>Frank Dellaert</strong><br/>
+        <em>Georgia Institute of Technology</em>  <br/>
+        <a href="https://dellaert.github.io/">Personal website</a>
+      </div>
+</div>
+
+<div style="clear:left;">
+</div>
+<br>
+
+<div class="container">
+    <div class="image">
+    <img style="float:left;padding-right:10px;padding-bottom:10px" 
+         align='middle'
+         src="images/speakers/example.jpg" alt="Image" width="150" height="150" />
+    </div>
+      <div class="text">
+        <h3>Tentative title: Modular and heterogeneous multi-agent AI robot system for lunar exploration</h3>
+        <strong>Kazuya Yoshida</strong><br/>
+        <em>Tohoku University</em>  <br/>
+        <a href="http://www.astro.mech.tohoku.ac.jp/e/">Personal website</a>
+      </div>
+</div>
+
+<div style="clear:left;">
+</div>
+<br>
+
+<div class="container">
+    <div class="image">
+    <img style="float:left;padding-right:10px;padding-bottom:10px" 
+         align='middle'
+         src="images/speakers/example.jpg" alt="Image" width="150" height="150" />
+    </div>
+      <div class="text">
+        <h3>Tentative title: Robotics, Automation, and the 21st Century Miner</h3>
+        <strong>Josh Marshall</strong><br/>
+        <em>Queen’s University</em>  <br/>
+        <a href="https://www.queensu.ca/offroad-robotics/people/joshua-marshall ">Personal website</a>
+      </div>
+</div>
+
+<div style="clear:left;">
+</div>
 
 # Call for papers
 
