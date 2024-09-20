@@ -285,4 +285,18 @@ FR workshop accepts contributions based on the following criteria:
       </div>
 </div>
 
-
+<div style="clear:left;">
+</div>
+<br>
+<div class="container">
+    <div class="image">
+    <img style="float:left;padding-right:10px;padding-bottom:10px" 
+         align='middle'
+         src="images/organizers/sven_lilge.jpg" alt="Image" width="80" height="80" />
+    </div>
+      <div class="text">
+        <strong>Sven Lilge </strong><br/>
+        <em>University of Toronto</em> <br/>
+        <a href="https://svenlilge.github.io/">Personal website</a>
+      </div>
+</div>
