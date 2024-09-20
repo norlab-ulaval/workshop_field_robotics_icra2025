@@ -205,12 +205,7 @@ Participants will have access to extensive datasets, including recordings from w
   <table style="margin: 0 auto;">
     <tr>
       <td style="width: 80px;">
-        <img src="images/workshop/jan_faigl.png" alt="Jan Faigl" style="max-width: 80px; height: auto;">
-          <br><strong><pre>
-              Jan Faig
-
-              
-          </pre>></strong>
+        <img src="images/workshop/jan_faigl.png" alt="Jan Faigl" style="max-width: 80px; height: auto;"><br><strong>Jan Faig</strong>
       </td>
       <td style="width: 80px;">
         <img src="images/workshop/gerald_steinbauer_wagner.jpg" alt="Gerald Steinbauer-Wagner" style="max-width: 80px; height: auto;"><br><strong>Gerald Steinbauer-Wagner</strong>
