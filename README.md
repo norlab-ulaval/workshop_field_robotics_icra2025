@@ -199,17 +199,19 @@ The workshop will also feature a competition designed to address key challenges 
 Participants will have access to extensive datasets, including recordings from wheeled, tracked, and multi-legged robots navigating challenging off-road terrains. Besides vision data, these datasets will feature RADAR-based perception data for off-road environments and multispectral data for scenarios where passive sensors are crucial. Competitors will submit solutions for tasks like semantic segmentation and localization. Top-performing participants will present their results at the ICRA 2025 workshop, with prizes of 500 EUR, 300 EUR, and 200 EUR awarded to the 1st, 2nd, and 3rd place winners, respectively. The competition's aim is to tackle the unique challenges of perception and localization for field robots, fostering innovations in sensor technologies that enable autonomous operation in unstructured and demanding environments.
 
 ## Competition Organizers
-<table>
-  <tr>
-    <td style="text-align: center; width: 80px;"><img src="images/workshop/jan_faigl.png" alt="Jan Faigl" style="max-width: 80px; height: auto;"></td>
-    <td style="text-align: center; width: 80px;"><img src="images/workshop/gerald_steinbauer_wagner.jpg" alt="Gerald Steinbauer-Wagner" style="max-width: 80px; height: auto;"></td>
-    <td style="text-align: center; width: 80px;"><img src="images/workshop/milos_pragr.jpg" alt="Miloš Prágr" style="max-width: 80px; height: auto;"></td>
-    <td style="text-align: center; width: 80px;"><img src="images/workshop/raphael_hagmanns.jpg" alt="Raphael Hagmanns" style="max-width: 80px; height: auto;"></td>
-    <td style="text-align: center; width: 80px;"><img src="images/workshop/miguel_granero.jpeg" alt="Miguel Granero" style="max-width: 80px; height: auto;"></td>
-    <td style="text-align: center; width: 80px;"><img src="images/workshop/vladimir_kubelka.jpg" alt="Vladimír Kubelka" style="max-width: 80px; height: auto;"></td>
-    <td style="text-align: center; width: 80px;"><img src="images/workshop/peter_mortimer.jpg" alt="Peter Mortimer" style="max-width: 80px; height: auto;"></td>
-  </tr>
-</table>
+<div style="text-align: center;">
+  <table style="margin: 0 auto;">
+    <tr>
+      <td style="width: 80px;"><img src="images/workshop/jan_faigl.png" alt="Jan Faigl" style="max-width: 80px; height: auto;"></td>
+      <td style="width: 80px;"><img src="images/workshop/gerald_steinbauer_wagner.jpg" alt="Gerald Steinbauer-Wagner" style="max-width: 80px; height: auto;"></td>
+      <td style="width: 80px;"><img src="images/workshop/milos_pragr.jpg" alt="Miloš Prágr" style="max-width: 80px; height: auto;"></td>
+      <td style="width: 80px;"><img src="images/workshop/raphael_hagmanns.jpg" alt="Raphael Hagmanns" style="max-width: 80px; height: auto;"></td>
+      <td style="width: 80px;"><img src="images/workshop/miguel_granero.jpeg" alt="Miguel Granero" style="max-width: 80px; height: auto;"></td>
+      <td style="width: 80px;"><img src="images/workshop/vladimir_kubelka.jpg" alt="Vladimír Kubelka" style="max-width: 80px; height: auto;"></td>
+      <td style="width: 80px;"><img src="images/workshop/peter_mortimer.jpg" alt="Peter Mortimer" style="max-width: 80px; height: auto;"></td>
+    </tr>
+  </table>
+</div>
 
 
 # Organizers
