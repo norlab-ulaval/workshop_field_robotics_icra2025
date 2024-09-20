@@ -16,6 +16,7 @@ This workshop will bring together experts, researchers, and practitioners to dis
 <br>
 
 # Program
+All invited speakers are confirmed.
 
 | **Time**                | **Speaker**                                | **Topic/title**                                                                 |
 |---------------------|----------------------------------------|------------------------------------------------------------------------------|
