@@ -1,4 +1,4 @@
-![field robot image](images/banner.jpg)
+![field robot image](images/banner_white.jpg)
 
 ## Important dates
 
