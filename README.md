@@ -62,7 +62,7 @@ end speaker1-->
     <div class="image">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
          align='middle'
-         src="images/speakers/example.jpg" alt="Image" width="150" height="150" />
+         src="images/speakers/Stefan_Williams.jpeg" alt="Image" width="150" height="150" />
     </div>
       <div class="text">
         <h3>Tentative title: Navigation, mapping, planning, and control applied to autonomous marine systems</h3>
@@ -80,7 +80,7 @@ end speaker1-->
     <div class="image">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
          align='middle'
-         src="images/speakers/example.jpg" alt="Image" width="150" height="150" />
+         src="images/speakers/Robin_Murphy.jpg" alt="Image" width="150" height="150" />
     </div>
       <div class="text">
         <h3>Tentative title: Robots come to the rescue after a disaster</h3>
@@ -98,7 +98,7 @@ end speaker1-->
     <div class="image">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
          align='middle'
-         src="images/speakers/example.jpg" alt="Image" width="150" height="150" />
+         src="images/speakers/Marco_Hutter.jpeg" alt="Image" width="150" height="150" />
     </div>
       <div class="text">
         <h3>Tentative title: 27 Years of Climbing and Walking Robots – Are We There?</h3>
@@ -116,7 +116,7 @@ end speaker1-->
     <div class="image">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
          align='middle'
-         src="images/speakers/example.jpg" alt="Image" width="150" height="150" />
+         src="images/speakers/Frank_Dellaert.jpg" alt="Image" width="150" height="150" />
     </div>
       <div class="text">
         <h3>Tentative title: Can these farming robots save agriculture?</h3>
@@ -134,7 +134,7 @@ end speaker1-->
     <div class="image">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
          align='middle'
-         src="images/speakers/example.jpg" alt="Image" width="150" height="150" />
+         src="images/speakers/Kazuya_Yoshida.jpg" alt="Image" width="150" height="150" />
     </div>
       <div class="text">
         <h3>Tentative title: Modular and heterogeneous multi-agent AI robot system for lunar exploration</h3>
@@ -152,7 +152,7 @@ end speaker1-->
     <div class="image">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
          align='middle'
-         src="images/speakers/example.jpg" alt="Image" width="150" height="150" />
+         src="images/speakers/Joshua_Marshall.webp" alt="Image" width="150" height="150" />
     </div>
       <div class="text">
         <h3>Tentative title: Robotics, Automation, and the 21st Century Miner</h3>
