@@ -16,12 +16,23 @@ This workshop will bring together experts, researchers, and practitioners to dis
 <br>
 
 # Program
-All invited speakers are confirmed.
 
-| **Time***         | **Speaker**                                                              | **Topic/title**                                                                                               |
-|-------------------|--------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
-| **9:00 - 9:15**   | Organizers                                                               | Welcome and opening remarks                                                                                       |
-| **TBD**   | TBD                                                               | TBD                                                                                       |
+| **Time**                | **Speaker**                                | **Topic/title**                                                                 |
+|---------------------|----------------------------------------|------------------------------------------------------------------------------|
+| 9:00 - 9:15         | Organizers                             | Welcome and opening remarks                                                  |
+| 9:15 - 9:55         | Robin Murphy (Texas A&M University)     | Invited talk #1 - TODO                                                       |
+| 9:55 - 10:25        | Ten emerging researchers               | Spotlight talks #1 (3 min/pers)                                               |
+| 10:25 - 11:10       | -                                      | Coffee break and poster session                                               |
+| 11:10 - 11:50       | Marco Hutter (ETH Zurich)              | Invited talk #2 - TODO                                                       |
+| 11:50 - 12:30       | Panel                                  | Questions: What is the role of simulation, and data sets in field robotics? Should we keep an annual workshop or create a separate conference? Why do old laboratories stop doing field deployments? |
+| 12:30 - 13:30       | -                                      | Lunch                                                                        |
+| 13:30 - 14:30       | Stephan Williams (The University of Sydney) | Keynote - TODO                                                            |
+| 14:30 - 15:10       | Frank Dellaert (Georgia Institute of Technology) | Invited talk #3 - TODO                                                    |
+| 15:10 - 15:55       | -                                      | Coffee break and poster session                                               |
+| 15:55 - 16:35       | Kazuya Yoshida (Tohoku University)     | Invited talk #4 - TODO                                                       |
+| 16:35 - 17:15       | Josh Marshall (Queen’s University)     | Invited talk #5 - TODO                                                       |
+| 17:15 - 17:30       | Organizers                             | Conclusion                                                                   |
+
 
 ***Note**: All times are in the local time zone of ICRA 2025 (Atlanta).
 
@@ -94,7 +105,7 @@ FR workshop accepts contributions based on the following criteria:
     <div class="image">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
          align='middle'
-         src="images/organizers/tim_barfoot.jpg" alt="Image" width="80" height="80" />
+         src="images/organizers/tim_barfoot.webp" alt="Image" width="80" height="80" />
     </div>
       <div class="text">
         <strong>Tim Barfoot</strong><br/>
@@ -126,7 +137,7 @@ FR workshop accepts contributions based on the following criteria:
     <div class="image">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
          align='middle'
-         src="images/organizers/philippe_giguere.jpg" alt="Image" width="80" height="80" />
+         src="images/organizers/philippe_giguere.webp" alt="Image" width="80" height="80" />
     </div>
       <div class="text">
         <strong>Philippe Giguère</strong><br/>
@@ -147,7 +158,7 @@ FR workshop accepts contributions based on the following criteria:
       <div class="text">
         <strong>Johann Laconte</strong><br/>
         <em>French National Research Institute for Agriculture, Food and Environment (INRAE)</em> <br/>
-        <a href="https://johannlac.github.io/">Personal website</a>
+        <a href="http://rleaf.mathnum.inrae.fr/people/jlaconte/">Personal website</a>
       </div>
 </div>
 
