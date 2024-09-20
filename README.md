@@ -200,30 +200,29 @@ Participants will have access to extensive datasets, including recordings from w
 
 
 ## Competition Organizers
-
 <div style="text-align: center;">
   <table style="margin: 0 auto;">
     <tr>
-      <td style="width: 80px;">
-        <img src="images/workshop/jan_faigl.png" alt="Jan Faigl" style="max-width: 80px; height: auto;"><br><strong>Jan Faig</strong>
+      <td style="width: 80px; vertical-align: top; height: 120px;">
+        <img src="images/workshop/jan_faigl.png" alt="Jan Faigl" style="max-width: 80px; height: auto;"><br><strong>Jan Faigl</strong>
       </td>
-      <td style="width: 80px;">
+      <td style="width: 80px; vertical-align: top; height: 120px;">
         <img src="images/workshop/gerald_steinbauer_wagner.jpg" alt="Gerald Steinbauer-Wagner" style="max-width: 80px; height: auto;"><br><strong>Gerald Steinbauer-Wagner</strong>
       </td>
-      <td style="width: 80px;">
-        <img src="images/workshop/milos_pragr.jpg" alt="Miloš Prágr" style="max-width: 80px; height: auto;"><br><strong>Miloš Prágr <br> <br></strong>
+      <td style="width: 80px; vertical-align: top; height: 120px;">
+        <img src="images/workshop/milos_pragr.jpg" alt="Miloš Prágr" style="max-width: 80px; height: auto;"><br><strong>Miloš Prágr</strong>
       </td>
-      <td style="width: 80px;">
-        <img src="images/workshop/raphael_hagmanns.jpg" alt="Raphael Hagmanns" style="max-width: 80px; height: auto;"><br><strong>Raphael Hagmanns <br></strong>
+      <td style="width: 80px; vertical-align: top; height: 120px;">
+        <img src="images/workshop/raphael_hagmanns.jpg" alt="Raphael Hagmanns" style="max-width: 80px; height: auto;"><br><strong>Raphael Hagmanns</strong>
       </td>
-      <td style="width: 80px;">
-        <img src="images/workshop/miguel_granero.jpeg" alt="Miguel Granero" style="max-width: 80px; height: auto;"><br><strong>Miguel Granero <br></strong>
+      <td style="width: 80px; vertical-align: top; height: 120px;">
+        <img src="images/workshop/miguel_granero.jpeg" alt="Miguel Granero" style="max-width: 80px; height: auto;"><br><strong>Miguel Granero</strong>
       </td>
-      <td style="width: 80px;">
-        <img src="images/workshop/vladimir_kubelka.jpg" alt="Vladimír Kubelka" style="max-width: 80px; height: auto;"><br><strong>Vladimír Kubelka <br></strong>
+      <td style="width: 80px; vertical-align: top; height: 120px;">
+        <img src="images/workshop/vladimir_kubelka.jpg" alt="Vladimír Kubelka" style="max-width: 80px; height: auto;"><br><strong>Vladimír Kubelka</strong>
       </td>
-      <td style="width: 80px;">
-        <img src="images/workshop/peter_mortimer.jpg" alt="Peter Mortimer" style="max-width: 80px; height: auto;"><br><strong>Peter Mortimer <br></strong>
+      <td style="width: 80px; vertical-align: top; height: 120px;">
+        <img src="images/workshop/peter_mortimer.jpg" alt="Peter Mortimer" style="max-width: 80px; height: auto;"><br><strong>Peter Mortimer</strong>
       </td>
     </tr>
   </table>
