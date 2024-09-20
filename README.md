@@ -27,8 +27,7 @@ This workshop will bring together experts, researchers, and practitioners to dis
 | 11:50- 12:30       | Panel                                  | Questions: What is the role of simulation, and data sets in field robotics? Should we keep an annual workshop or create a separate conference? Why do old laboratories stop doing field deployments? |
 | 12:30- 13:30       | -                                      | Lunch                                                                        |
 | 13:30- 14:30       | Stephan Williams (The University of Sydney) | Keynote - _Tentative title:_ Navigation, mapping, planning, and control applied to autonomous marine systems                                                            |
-| 14:30- 15:10       | Frank Dellaert (Georgia Institute of Technology) | Invited talk #3 - _Tentative title:_ Can these farming robots save agriculture?
-                                                    |
+| 14:30- 15:10       | Frank Dellaert (Georgia Institute of Technology) | Invited talk #3 - _Tentative title:_ Can these farming robots save agriculture?                                                    |
 | 15:10- 15:55       | -                                      | Coffee break and poster session                                               |
 | 15:55- 16:35       | Kazuya Yoshida (Tohoku University)     | Invited talk #4 - _Tentative title:_ Modular and heterogeneous multi-agent AI robot system for lunar exploration                                                       |
 | 16:35- 17:15       | Josh Marshall (Queen’s University)     | Invited talk #5 - _Tentative title:_ Robotics, Automation, and the 21st Century Miner                                                       |
