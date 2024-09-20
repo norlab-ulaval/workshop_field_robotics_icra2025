@@ -198,7 +198,7 @@ The workshop will also feature a competition designed to address key challenges 
 
 Participants will have access to extensive datasets, including recordings from wheeled, tracked, and multi-legged robots navigating challenging off-road terrains. Besides vision data, these datasets will feature RADAR-based perception data for off-road environments and multispectral data for scenarios where passive sensors are crucial. Competitors will submit solutions for tasks like semantic segmentation and localization. Top-performing participants will present their results at the ICRA 2025 workshop, with prizes of 500 EUR, 300 EUR, and 200 EUR awarded to the 1st, 2nd, and 3rd place winners, respectively. The competition's aim is to tackle the unique challenges of perception and localization for field robots, fostering innovations in sensor technologies that enable autonomous operation in unstructured and demanding environments.
 
-## Competition Organizers
+
 ## Competition Organizers
 
 <div style="text-align: center;">
