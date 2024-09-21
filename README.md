@@ -24,15 +24,16 @@ All invited speakers are confirmed.
 | 9:15- 9:55         | **Robin Murphy** (Texas A&M University)     | Invited talk #1 - _Tentative title:_ **Robots come to the rescue after a disaster**                                                       |
 | 9:55- 10:25        | Ten emerging researchers               | Spotlight talks #1 (3 min/pers)                                               |
 | 10:25- 11:10       | -                                      | Coffee break and poster session                                               |
-| 11:10- 11:50       | **Marco Hutter** (ETH Zurich)              | Invited talk #2 - _Tentative title:_ **27 Years of Climbing and Walking Robots – Are We There? **                                                      |
+| 11:10- 11:50       | **Marco Hutter** (ETH Zurich)              | Invited talk #2 - _Tentative title:_ **27 Years of Climbing and Walking Robots – Are We There?**                                                      |
 | 11:50- 12:30       | Panel                                  | Questions: What is the role of simulation, and data sets in field robotics? Should we keep an annual workshop or create a separate conference? Why do old laboratories stop doing field deployments? |
 | 12:30- 13:30       | -                                      | Lunch                                                                        |
-| 13:30- 14:30       | **Stephan Williams** (The University of Sydney) | Keynote - _Tentative title:_ **Navigation, mapping, planning, and control applied to autonomous marine systems**                                                            |
+| 13:30- 14:30       | **Vijay Kumar** (University of Pennsylvania) | Keynote - _Tentative title:_ **The Future of Flying Robots**                                                            |
 | 14:30- 15:10       | **Frank Dellaert** (Georgia Institute of Technology) | Invited talk #3 - _Tentative title:_ **Can these farming robots save agriculture?**                                                    |
 | 15:10- 15:55       | -                                      | Coffee break and poster session                                               |
-| 15:55- 16:35       | **Kazuya Yoshida** (Tohoku University)     | Invited talk #4 - _Tentative title:_ **Modular and heterogeneous multi-agent AI robot system for lunar exploration**                                                       |
-| 16:35- 17:15       | **Josh Marshall** (Queen’s University)     | Invited talk #5 - _Tentative title:_ R**obotics, Automation, and the 21st Century Miner**                                                       |
-| 17:15- 17:30       | Organizers                             | Conclusion                                                                   |
+| 15:55- 16:35       | **Stephan Williams** (The University of Sydney) | Keynote - _Tentative title:_ **Navigation, mapping, planning, and control applied to autonomous marine systems**                                                            |
+| 16:35- 17:15       | **Kazuya Yoshida** (Tohoku University)     | Invited talk #4 - _Tentative title:_ **Modular and heterogeneous multi-agent AI robot system for lunar exploration**                                                       |
+| 17:15- 17:45       | **Josh Marshall** (Queen’s University)     | Invited talk #5 - _Tentative title:_ R**obotics, Automation, and the 21st Century Miner**                                                       |
+| 17:45- 18:00       | Organizers                             | Conclusion                                                                   |
 
 
 ***Note**: All times are in the local time zone of ICRA 2025 (Atlanta).
@@ -58,6 +59,24 @@ All invited speakers are confirmed.
 </div>
 <br>
 end speaker1-->
+
+<div class="container">
+    <div class="image">
+    <img style="float:left;padding-right:10px;padding-bottom:10px" 
+         align='middle'
+         src="images/speakers/Vijay_Kumar.jpg" alt="Image" width="150" height="150" />
+    </div>
+      <div class="text">
+        <h3>Tentative title: The Future of Flying Robots</h3>
+        <strong>Vijay Kumar</strong><br/>
+        <em>University of Pennsylvania</em>  <br/>
+        <a href="https://www.kumarrobotics.org/">Personal website</a>
+      </div>
+</div>
+
+<div style="clear:left;">
+</div>
+<be>
 
 <div class="container">
     <div class="image">
