@@ -76,7 +76,7 @@ end speaker1-->
 
 <div style="clear:left;">
 </div>
-<be>
+<br>
 
 <div class="container">
     <div class="image">
@@ -94,7 +94,7 @@ end speaker1-->
 
 <div style="clear:left;">
 </div>
-<be>
+<br>
 
 <div class="container">
     <div class="image">
@@ -112,7 +112,7 @@ end speaker1-->
 
 <div style="clear:left;">
 </div>
-<be>
+<br>
 
 <div class="container">
     <div class="image">
@@ -130,7 +130,7 @@ end speaker1-->
 
 <div style="clear:left;">
 </div>
-<be>
+<br>
 
 <div class="container">
     <div class="image">
@@ -148,7 +148,7 @@ end speaker1-->
 
 <div style="clear:left;">
 </div>
-<be>
+<br>
 
 <div class="container">
     <div class="image">
@@ -166,7 +166,7 @@ end speaker1-->
 
 <div style="clear:left;">
 </div>
-<be>
+<br>
 
 <div class="container">
     <div class="image">
