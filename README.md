@@ -30,9 +30,9 @@ All invited speakers are confirmed.
 | 13:30- 14:30       | **Vijay Kumar** (University of Pennsylvania) | Keynote - _Tentative title:_ **The Future of Flying Robots**                                                            |
 | 14:30- 15:10       | **Frank Dellaert** (Georgia Institute of Technology) | Invited talk #3 - _Tentative title:_ **Can these farming robots save agriculture?**                                                    |
 | 15:10- 15:55       | -                                      | Coffee break and poster session                                               |
-| 15:55- 16:35       | **Stephan Williams** (The University of Sydney) | Keynote - _Tentative title:_ **Navigation, mapping, planning, and control applied to autonomous marine systems**                                                            |
-| 16:35- 17:15       | **Kazuya Yoshida** (Tohoku University)     | Invited talk #4 - _Tentative title:_ **Modular and heterogeneous multi-agent AI robot system for lunar exploration**                                                       |
-| 17:15- 17:45       | **Josh Marshall** (Queen’s University)     | Invited talk #5 - _Tentative title:_ R**obotics, Automation, and the 21st Century Miner**                                                       |
+| 15:55- 16:35       | **Stephan Williams** (The University of Sydney) | Invited talk #4 - _Tentative title:_ **Navigation, mapping, planning, and control applied to autonomous marine systems**                                                            |
+| 16:35- 17:15       | **Kazuya Yoshida** (Tohoku University)     | Invited talk #5 - _Tentative title:_ **Modular and heterogeneous multi-agent AI robot system for lunar exploration**                                                       |
+| 17:15- 17:45       | **Josh Marshall** (Queen’s University)     | Invited talk #6 - _Tentative title:_ **Robotics, Automation, and the 21st Century Miner**                                                       |
 | 17:45- 18:00       | Organizers                             | Conclusion                                                                   |
 
 
@@ -74,6 +74,56 @@ end speaker1-->
       </div>
 </div>
 
+<div class="container">
+    <div class="image">
+    <img style="float:left;padding-right:10px;padding-bottom:10px" 
+         align='middle'
+         src="images/speakers/Robin_Murphy.jpg" alt="Image" width="150" height="150" />
+    </div>
+      <div class="text">
+        <h3>Tentative title: Robots come to the rescue after a disaster</h3>
+        <strong>Robin Murphy</strong><br/>
+        <em>Texas A&M University</em>  <br/>
+        <a href="https://engineering.tamu.edu/cse/profiles/rmurphy.html">Personal website</a>
+      </div>
+</div>
+
+<div style="clear:left;">
+</div>
+<be>
+
+<div class="container">
+    <div class="image">
+    <img style="float:left;padding-right:10px;padding-bottom:10px" 
+         align='middle'
+         src="images/speakers/Marco_Hutter.jpeg" alt="Image" width="150" height="150" />
+    </div>
+      <div class="text">
+        <h3>Tentative title: 27 Years of Climbing and Walking Robots – Are We There?</h3>
+        <strong>Marco Hutter</strong><br/>
+        <em>ETH Zurich</em>  <br/>
+        <a href="https://rsl.ethz.ch/the-lab/people/person-detail.html?persid=121911">Personal website</a>
+      </div>
+</div>
+
+<div style="clear:left;">
+</div>
+<be>
+
+<div class="container">
+    <div class="image">
+    <img style="float:left;padding-right:10px;padding-bottom:10px" 
+         align='middle'
+         src="images/speakers/Frank_Dellaert.jpg" alt="Image" width="150" height="150" />
+    </div>
+      <div class="text">
+        <h3>Tentative title: Can these farming robots save agriculture?</h3>
+        <strong>Frank Dellaert</strong><br/>
+        <em>Georgia Institute of Technology</em>  <br/>
+        <a href="https://dellaert.github.io/">Personal website</a>
+      </div>
+</div>
+
 <div style="clear:left;">
 </div>
 <be>
@@ -94,61 +144,11 @@ end speaker1-->
 
 <div style="clear:left;">
 </div>
-<br>
-
-<div class="container">
-    <div class="image">
-    <img style="float:left;padding-right:10px;padding-bottom:10px" 
-         align='middle'
-         src="images/speakers/Robin_Murphy.jpg" alt="Image" width="150" height="150" />
-    </div>
-      <div class="text">
-        <h3>Tentative title: Robots come to the rescue after a disaster</h3>
-        <strong>Robin Murphy</strong><br/>
-        <em>Texas A&M University</em>  <br/>
-        <a href="https://engineering.tamu.edu/cse/profiles/rmurphy.html">Personal website</a>
-      </div>
-</div>
-
+<be>
+    
 <div style="clear:left;">
 </div>
-<br>
-
-<div class="container">
-    <div class="image">
-    <img style="float:left;padding-right:10px;padding-bottom:10px" 
-         align='middle'
-         src="images/speakers/Marco_Hutter.jpeg" alt="Image" width="150" height="150" />
-    </div>
-      <div class="text">
-        <h3>Tentative title: 27 Years of Climbing and Walking Robots – Are We There?</h3>
-        <strong>Marco Hutter</strong><br/>
-        <em>ETH Zurich</em>  <br/>
-        <a href="https://rsl.ethz.ch/the-lab/people/person-detail.html?persid=121911">Personal website</a>
-      </div>
-</div>
-
-<div style="clear:left;">
-</div>
-<br>
-
-<div class="container">
-    <div class="image">
-    <img style="float:left;padding-right:10px;padding-bottom:10px" 
-         align='middle'
-         src="images/speakers/Frank_Dellaert.jpg" alt="Image" width="150" height="150" />
-    </div>
-      <div class="text">
-        <h3>Tentative title: Can these farming robots save agriculture?</h3>
-        <strong>Frank Dellaert</strong><br/>
-        <em>Georgia Institute of Technology</em>  <br/>
-        <a href="https://dellaert.github.io/">Personal website</a>
-      </div>
-</div>
-
-<div style="clear:left;">
-</div>
-<br>
+<be>
 
 <div class="container">
     <div class="image">
@@ -166,7 +166,7 @@ end speaker1-->
 
 <div style="clear:left;">
 </div>
-<br>
+<be>
 
 <div class="container">
     <div class="image">
@@ -184,7 +184,7 @@ end speaker1-->
 
 <div style="clear:left;">
 </div>
-<br>
+<be>
 
 # Call for papers
 
