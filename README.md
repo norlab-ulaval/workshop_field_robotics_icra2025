@@ -74,6 +74,10 @@ end speaker1-->
       </div>
 </div>
 
+<div style="clear:left;">
+</div>
+<be>
+
 <div class="container">
     <div class="image">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
@@ -145,10 +149,6 @@ end speaker1-->
 <div style="clear:left;">
 </div>
 <be>
-    
-<div style="clear:left;">
-</div>
-<be>
 
 <div class="container">
     <div class="image">
@@ -184,7 +184,7 @@ end speaker1-->
 
 <div style="clear:left;">
 </div>
-<be>
+<br>
 
 # Call for papers
 
