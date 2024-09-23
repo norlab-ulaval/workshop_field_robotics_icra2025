@@ -20,10 +20,11 @@ All invited speakers are confirmed.
 
 | **Time**                | **Speaker**                                | **Topic/title**                                                                 |
 |---------------------|----------------------------------------|------------------------------------------------------------------------------|
-| 9:00- 9:15         | Organizers                             | Welcome and opening remarks                                                  |
-| 9:15- 9:55         | **Robin Murphy** (Texas A&M University)     | Invited talk #1 - _Tentative title:_ **Robots come to the rescue after a disaster**                                                       |
-| 9:55- 10:25        | Ten emerging researchers               | Spotlight talks #1 (3 min/pers)                                               |
-| 10:25- 11:10       | -                                      | Coffee break and poster session                                               |
+| 8:45- 9:00         | Organizers                             | Welcome and opening remarks                                                  |
+| 9:00- 9:40         | **Robin Murphy** (Texas A&M University)     | Invited talk #1 - _Tentative title:_ **Robots come to the rescue after a disaster**                                                       |
+| 9:40- 10:20        | Ten emerging researchers               | Spotlight talks #1 (3 min/pers)                                               |
+| 10:20- 10:50       | -                                      | Coffee break and poster session                                               |
+| 10:50- 11:10       | Organizers                             | Result announcement for the dataset competition                               |
 | 11:10- 11:50       | **Marco Hutter** (ETH Zurich)              | Invited talk #2 - _Tentative title:_ **27 Years of Climbing and Walking Robots – Are We There?**                                                      |
 | 11:50- 12:30       | Panel                                  | Questions: What is the role of simulation, and data sets in field robotics? Should we keep an annual workshop or create a separate conference? Why do old laboratories stop doing field deployments? |
 | 12:30- 13:30       | -                                      | Lunch                                                                        |
