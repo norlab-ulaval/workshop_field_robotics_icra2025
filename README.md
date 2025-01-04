@@ -2,10 +2,10 @@
 
 ## Important dates
 
-- Paper submission deadline: *TBD*, 2025, 11:59 p.m. (Anywhere on Earth)
-- Notification of acceptance: *TBD*
-- Camera-ready submission: *TBD*, 11:59 p.m. (Anywhere on Earth)
-- Workshop date: *TBD*
+- Paper submission deadline: March 16, 2025, 11:59 p.m. (Anywhere on Earth)
+- Notification of acceptance: April 15, 2025
+- Camera-ready submission: May 1, 11:59 p.m. (Anywhere on Earth)
+- Workshop date: May 19
 
 # Context
 <div style="text-align: justify">
