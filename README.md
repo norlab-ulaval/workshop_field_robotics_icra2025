@@ -21,7 +21,7 @@ All invited speakers are confirmed.
 | **Time**                | **Speaker**                                | **Topic/title**                                                                 |
 |---------------------|----------------------------------------|------------------------------------------------------------------------------|
 | 8:45- 9:00         | Organizers                             | Welcome and opening remarks                                                  |
-| 9:00- 9:40         | **Robin Murphy** (Texas A&M University)     | Invited talk #1 - _Tentative title:_ **Robots come to the rescue after a disaster**                                                       |
+| 9:00- 9:40         | **Robin Murphy** (Texas A&M University)     | Invited talk #1 - **30 Years of Robotics for Disasters”**                                                       |
 | 9:40- 10:20        | Ten emerging researchers               | Spotlight talks #1 (3 min/pers)                                               |
 | 10:20- 10:50       | -                                      | Coffee break and poster session                                               |
 | 10:50- 11:10       | Organizers                             | Result announcement for the dataset competition                               |
