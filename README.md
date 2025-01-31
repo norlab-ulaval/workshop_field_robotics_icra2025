@@ -214,11 +214,24 @@ FR workshop accepts contributions based on the following criteria:
 
 # Competition
 
-The workshop will also feature a competition designed to address key challenges in field robot deployment, driving advancements toward real-world applications and expanding the scope of robotic capabilities. The competition will focus on vision-based tasks such as segmentation and semantic scene understanding, particularly in complex, off-road, and densely vegetated environments. Additionally, traditional SLAM techniques will be adapted for use with emerging RADAR sensors, which are ideal for navigating dense vegetation, as well as multispectral sensors, offering promising solutions for localization and situational awareness in GNSS-denied or low-light conditions.
+This year, the field robotics workshop features multiple competition tracks designed to address key challenges in field robot deployment.
+The competition focuses on vision-based tasks such as 2D and 3D Semantic Segmentation and SLAM in challenging environments like dense vegetation. 
+Participants have access to extensive datasets, including recordings from wheeled, tracked, and multi-legged robots navigating challenging off-road terrains from the [GOOSE](https://goose-dataset.de/) and [GOOSE-Ex](https://arxiv.org/pdf/2409.18788) dataset. 
+The SLAM dataset features radar-based perception data for off-road environments and multispectral data for scenarios where passive sensors are crucial. 
 
-Participants will have access to extensive datasets, including recordings from wheeled, tracked, and multi-legged robots navigating challenging off-road terrains. Besides vision data, these datasets will feature RADAR-based perception data for off-road environments and multispectral data for scenarios where passive sensors are crucial. Competitors will submit solutions for tasks like semantic segmentation and localization. Top-performing participants will present their results at the ICRA 2025 workshop, with prizes of 500 EUR, 300 EUR, and 200 EUR awarded to the 1st, 2nd, and 3rd place winners, respectively. The competition's aim is to tackle the unique challenges of perception and localization for field robots, fostering innovations in sensor technologies that enable autonomous operation in unstructured and demanding environments.
+The top-performing teams are invited to present their results during the workshop poster sessions and receive prizes.
+The competitions are open to all field robotics researchers and practitioners.
 
+Please visit the competition websites for more details:
 
+**Vision Tracks:**
+ - [GOOSE + GOOSE-Ex: 2D Semantic Segmentation Challenge](#) (start date: February 7, 2025)
+ - [GOOSE + GOOSE-Ex: 3D Semantic Segmentation Challenge](#) (start date: February 7, 2025)
+
+**SLAM Tracks:**
+ - coming soon...
+
+Any questions about the competition can be directed at [field-robotics-competition-icra-25@googlegroups.com](mailto:field-robotics-competition-icra-25@googlegroups.com?subject=Question%20regarding%20the%20Field%20Robotics%20Dataset%20Competitions).
 
 # Organizers
 
