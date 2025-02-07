@@ -29,7 +29,7 @@ All invited speakers are confirmed.
 | 11:50- 12:30       | Panel                                  | Questions: What is the role of simulation, and data sets in field robotics? Should we keep an annual workshop or create a separate conference? Why do old laboratories stop doing field deployments? |
 | 12:30- 13:30       | -                                      | Lunch                                                                        |
 | 13:30- 14:30       | **Vijay Kumar** (University of Pennsylvania) | Keynote - _Tentative title:_ **The Future of Flying Robots**                                                            |
-| 14:30- 15:10       | **Frank Dellaert** (Georgia Institute of Technology) | Invited talk #3 - _Tentative title:_ **Can these farming robots save agriculture?**                                                    |
+| 14:30- 15:10       | **Frank Dellaert** (Georgia Institute of Technology) | Invited talk #3 - **Precision Robotics for Agriculture 2.0**                                                    |
 | 15:10- 15:55       | -                                      | Coffee break and poster session                                               |
 | 15:55- 16:35       | **Stephan Williams** (The University of Sydney) | Invited talk #4 - _Tentative title:_ **Navigation, mapping, planning, and control applied to autonomous marine systems**                                                            |
 | 16:35- 17:15       | **Kazuya Yoshida** (Tohoku University)     | Invited talk #5 - _Tentative title:_ **Modular and heterogeneous multi-agent AI robot system for lunar exploration**                                                       |
