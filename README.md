@@ -21,7 +21,7 @@ All invited speakers are confirmed.
 | **Time**                | **Speaker**                                | **Topic/title**                                                                 |
 |---------------------|----------------------------------------|------------------------------------------------------------------------------|
 | 8:45- 9:00         | Organizers                             | Welcome and opening remarks                                                  |
-| 9:00- 9:40         | **Robin Murphy** (Texas A&M University)     | Invited talk #1 - **30 Years of Robotics for Disasters”**                                                       |
+| 9:00- 9:40         | **Robin Murphy** (Texas A&M University)     | Invited talk #1 - **30 Years of Robotics for Disasters**                                                       |
 | 9:40- 10:20        | Ten emerging researchers               | Spotlight talks #1 (3 min/pers)                                               |
 | 10:20- 10:50       | -                                      | Coffee break and poster session                                               |
 | 10:50- 11:10       | Organizers                             | Result announcement for the dataset competition                               |
@@ -32,7 +32,8 @@ All invited speakers are confirmed.
 | 14:30- 15:10       | **Frank Dellaert** (Georgia Institute of Technology) | Invited talk #3 - **Precision Robotics for Agriculture 2.0**                                                    |
 | 15:10- 15:55       | -                                      | Coffee break and poster session                                               |
 | 15:55- 16:35       | **Stephan Williams** (The University of Sydney) | Invited talk #4 - _Tentative title:_ **Navigation, mapping, planning, and control applied to autonomous marine systems**                                                            |
-| 16:35- 17:15       | **Kazuya Yoshida** (Tohoku University)     | Invited talk #5 - _Tentative title:_ **Modular and heterogeneous multi-agent AI robot system for lunar exploration**                                                       |
+| 16:35- 17:15       | **Kazuya Yoshida** (Tohoku University)     | Invited talk #5 - **Terrestrial field tests for a modular and heterogeneous AI robot system
+for lunar exploration**                                                       |
 | 17:15- 17:45       | **Josh Marshall** (Queen’s University)     | Invited talk #6 - **Digging Deep: Robotics for Mining in the 21st Century**                                                       |
 | 17:45- 18:00       | Organizers                             | Conclusion                                                                   |
 
@@ -86,7 +87,7 @@ end speaker1-->
          src="images/speakers/Robin_Murphy.jpg" alt="Image" width="150" height="150" />
     </div>
       <div class="text">
-        <h3>Tentative title: Robots come to the rescue after a disaster</h3>
+        <h3>30 Years of Robotics for Disasters</h3>
         <strong>Robin Murphy</strong><br/>
         <em>Texas A&M University</em>  <br/>
         <a href="https://engineering.tamu.edu/cse/profiles/rmurphy.html">Personal website</a>
@@ -104,7 +105,7 @@ end speaker1-->
          src="images/speakers/Marco_Hutter.jpeg" alt="Image" width="150" height="150" />
     </div>
       <div class="text">
-        <h3>Tentative title: 27 Years of Climbing and Walking Robots – Are We There?</h3>
+        <h3>Robot Navigation with Common Sense</h3>
         <strong>Marco Hutter</strong><br/>
         <em>ETH Zurich</em>  <br/>
         <a href="https://rsl.ethz.ch/the-lab/people/person-detail.html?persid=121911">Personal website</a>
@@ -122,7 +123,7 @@ end speaker1-->
          src="images/speakers/Frank_Dellaert.jpg" alt="Image" width="150" height="150" />
     </div>
       <div class="text">
-        <h3>Tentative title: Can these farming robots save agriculture?</h3>
+        <h3>Precision Robotics for Agriculture 2.0</h3>
         <strong>Frank Dellaert</strong><br/>
         <em>Georgia Institute of Technology</em>  <br/>
         <a href="https://dellaert.github.io/">Personal website</a>
@@ -158,10 +159,13 @@ end speaker1-->
          src="images/speakers/Kazuya_Yoshida.jpg" alt="Image" width="150" height="150" />
     </div>
       <div class="text">
-        <h3>Tentative title: Modular and heterogeneous multi-agent AI robot system for lunar exploration</h3>
+        <h3>Terrestrial field tests for a modular and heterogeneous AI robot system
+for lunar exploration</h3>
         <strong>Kazuya Yoshida</strong><br/>
         <em>Tohoku University</em>  <br/>
         <a href="http://www.astro.mech.tohoku.ac.jp/e/">Personal website</a>
+        <a href="https://srl-moonshot.mech.tohoku.ac.jp/index.en.html">Moonshot Program</a>
+          
       </div>
 </div>
 
@@ -176,7 +180,7 @@ end speaker1-->
          src="images/speakers/Joshua_Marshall.webp" alt="Image" width="150" height="150" />
     </div>
       <div class="text">
-        <h3>Tentative title: Robotics, Automation, and the 21st Century Miner</h3>
+        <h3>Digging Deep: Robotics for Mining in the 21st Century</h3>
         <strong>Josh Marshall</strong><br/>
         <em>Queen’s University</em>  <br/>
         <a href="https://www.queensu.ca/offroad-robotics/people/joshua-marshall ">Personal website</a>
