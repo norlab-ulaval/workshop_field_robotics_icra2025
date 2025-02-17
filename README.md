@@ -163,7 +163,7 @@ end speaker1-->
 for lunar exploration</h3>
         <strong>Kazuya Yoshida</strong><br/>
         <em>Tohoku University</em>  <br/>
-        <a href="http://www.astro.mech.tohoku.ac.jp/e/">Personal website</a>
+        <a href="http://www.astro.mech.tohoku.ac.jp/e/">Personal website</a> <br/>
         <a href="https://srl-moonshot.mech.tohoku.ac.jp/index.en.html">Moonshot Program</a>
           
       </div>
