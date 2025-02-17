@@ -32,8 +32,7 @@ All invited speakers are confirmed.
 | 14:30- 15:10       | **Frank Dellaert** (Georgia Institute of Technology) | Invited talk #3 - **Precision Robotics for Agriculture 2.0**                                                    |
 | 15:10- 15:55       | -                                      | Coffee break and poster session                                               |
 | 15:55- 16:35       | **Stephan Williams** (The University of Sydney) | Invited talk #4 - _Tentative title:_ **Navigation, mapping, planning, and control applied to autonomous marine systems**                                                            |
-| 16:35- 17:15       | **Kazuya Yoshida** (Tohoku University)     | Invited talk #5 - **Terrestrial field tests for a modular and heterogeneous AI robot system
-for lunar exploration**                                                       |
+| 16:35- 17:15       | **Kazuya Yoshida** (Tohoku University)     | Invited talk #5 - **Terrestrial field tests for a modular and heterogeneous AI robot system for lunar exploration**                                                       |
 | 17:15- 17:45       | **Josh Marshall** (Queen’s University)     | Invited talk #6 - **Digging Deep: Robotics for Mining in the 21st Century**                                                       |
 | 17:45- 18:00       | Organizers                             | Conclusion                                                                   |
 
