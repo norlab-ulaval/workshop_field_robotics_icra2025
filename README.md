@@ -228,8 +228,8 @@ The competitions are open to all field robotics researchers and practitioners.
 Please visit the competition websites for more details:
 
 **Vision Tracks:**
- - [GOOSE + GOOSE-Ex: 2D Semantic Segmentation Challenge](#) (start date: February 7, 2025)
- - [GOOSE + GOOSE-Ex: 3D Semantic Segmentation Challenge](#) (start date: February 7, 2025)
+ - [GOOSE 2D Semantic Segmentation Challenge](https://tinyurl.com/goose-2d-challenge)
+ - [GOOSE 3D Semantic Segmentation Challenge](https://tinyurl.com/goose-3d-challenge)
 
 **SLAM Tracks:**
  - coming soon...
