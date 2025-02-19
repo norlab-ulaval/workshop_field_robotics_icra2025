@@ -20,22 +20,21 @@ All invited speakers are confirmed.
 
 | **Time**                | **Speaker**                                | **Topic/title**                                                                 |
 |---------------------|----------------------------------------|------------------------------------------------------------------------------|
-| 8:45- 9:00         | Organizers                             | Welcome and opening remarks                                                  |
-| 9:00- 9:40         | **Robin Murphy** (Texas A&M University)     | Invited talk #1 - **30 Years of Robotics for Disasters**                                                       |
-| 9:40- 10:20        | Ten emerging researchers               | Spotlight talks #1 (3 min/pers)                                               |
-| 10:20- 10:50       | -                                      | Coffee break and poster session                                               |
-| 10:50- 11:10       | Organizers                             | Result announcement for the dataset competition                               |
-| 11:10- 11:50       | **Marco Hutter** (ETH Zurich)              | Invited talk #2 - **Robot Navigation with Common Sense**                                                      |
-| 11:50- 12:30       | Panel                                  | Questions: What is the role of simulation, and data sets in field robotics? Should we keep an annual workshop or create a separate conference? Why do old laboratories stop doing field deployments? |
-| 12:30- 13:30       | -                                      | Lunch                                                                        |
-| 13:30- 14:30       | **Vijay Kumar** (University of Pennsylvania) | Keynote - _Tentative title:_ **The Future of Flying Robots**                                                            |
-| 14:30- 15:10       | **Frank Dellaert** (Georgia Institute of Technology) | Invited talk #3 - **Precision Robotics for Agriculture 2.0**                                                    |
-| 15:10- 15:55       | -                                      | Coffee break and poster session                                               |
-| 15:55- 16:35       | **Stephan Williams** (The University of Sydney) | Invited talk #4 - _Tentative title:_ **Navigation, mapping, planning, and control applied to autonomous marine systems**                                                            |
-| 16:35- 17:15       | **Kazuya Yoshida** (Tohoku University)     | Invited talk #5 - **Terrestrial field tests for a modular and heterogeneous AI robot system for lunar exploration**                                                       |
-| 17:15- 17:45       | **Josh Marshall** (Queen’s University)     | Invited talk #6 - **Digging Deep: Robotics for Mining in the 21st Century**                                                       |
-| 17:45- 18:00       | Organizers                             | Conclusion                                                                   |
-
+| 8:30- 8:50         | Organizers                             | Welcome and opening remarks                                                  |
+| 8:50- 9:20         | **Robin Murphy** (Texas A&M University)     | Invited talk #1 - **30 Years of Robotics for Disasters**                                                       |
+| 9:20- 10:00        | Ten emerging researchers               | Spotlight talks #1 (3 min/pers)                                               |
+| 10:00- 10:50       | -                                      | Coffee break and poster session                                               |
+| 10:50- 11:20       | **Kazuya Yoshida** (Tohoku University)     | Invited talk #2 - **Terrestrial field tests for a modular and heterogeneous AI robot system for lunar exploration**                                                       |
+| 11:20- 11:50       | **Marco Hutter** (ETH Zurich)              | Invited talk #3 - **Robot Navigation with Common Sense**                                                      |
+| 11:50- 13:10       | -                                      | Lunch                                                                        |
+| 13:10- 14:10       | **Vijay Kumar** (University of Pennsylvania) | Keynote - _Tentative title:_ **The Future of Flying Robots**                                                            |
+| 14:10- 14:40       | Panel                                  | Questions: What is the role of simulation, and data sets in field robotics? Should we keep an annual workshop or create a separate conference? Why do old laboratories stop doing field deployments? |
+| 14:40- 15:00       | Organizers                             | Result announcement for the dataset competition                               |
+| 15:00- 16:00       | -                                      | Coffee break and poster session                                               |
+| 16:00- 16:30       | **Frank Dellaert** (Georgia Institute of Technology) | Invited talk #4 - **Precision Robotics for Agriculture 2.0**                                                    |
+| 16:30- 17:00       | **Josh Marshall** (Queen’s University)     | Invited talk #5 - **Digging Deep: Robotics for Mining in the 21st Century**                                                       |
+| 17:00- 17:30       | Organizers                             | Conclusion                                                                   |
+| 18:00- 19:30       | -                              | ICRA Welcome Reception                                                                   |
 
 ***Note**: All times are in the local time zone of ICRA 2025 (Atlanta).
 
