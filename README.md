@@ -273,7 +273,7 @@ Any questions about the competition can be directed at [field-robotics-competiti
     </div>
       <div class="text">
         <strong>Keiji Nagatani</strong><br/>
-        <em>University of Tokyo</em> <br/>
+        <em>University of Tsukuba</em> <br/>
         <a href="http://k-nagatani.org/">Personal website</a>
       </div>
 </div>
