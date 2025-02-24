@@ -5,7 +5,7 @@
 - Paper submission deadline: March 16, 2025, 11:59 p.m. (Anywhere on Earth)
 - Notification of acceptance: April 15, 2025
 - Camera-ready submission: May 1, 11:59 p.m. (Anywhere on Earth)
-- Workshop date: May 19 or 23
+- Workshop date: May 19, 2025
 
 # Context
 <div style="text-align: justify">
@@ -15,7 +15,7 @@ This workshop will bring together experts, researchers, and practitioners to dis
 </div>
 <br>
 
-# Preliminary Program
+# Program
 All invited speakers are confirmed.
 
 | **Time**                | **Speaker**                                | **Topic/title**                                                                 |
@@ -100,6 +100,26 @@ end speaker1-->
     <div class="image">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
          align='middle'
+         src="images/speakers/Kazuya_Yoshida.jpg" alt="Image" width="150" height="150" />
+    </div>
+      <div class="text">
+        <h3>Terrestrial field tests for a modular and heterogeneous AI robot system
+for lunar exploration</h3>
+        <strong>Kazuya Yoshida</strong><br/>
+        <em>Tohoku University</em>  <br/>
+        <a href="http://www.astro.mech.tohoku.ac.jp/e/">Personal website</a> <br/>
+        <a href="https://srl-moonshot.mech.tohoku.ac.jp/index.en.html">Moonshot Program</a>   
+      </div>
+</div>
+
+<div style="clear:left;">
+</div>
+<br>
+
+<div class="container">
+    <div class="image">
+    <img style="float:left;padding-right:10px;padding-bottom:10px" 
+         align='middle'
          src="images/speakers/Marco_Hutter.jpeg" alt="Image" width="150" height="150" />
     </div>
       <div class="text">
@@ -125,45 +145,6 @@ end speaker1-->
         <strong>Frank Dellaert</strong><br/>
         <em>Georgia Institute of Technology</em>  <br/>
         <a href="https://dellaert.github.io/">Personal website</a>
-      </div>
-</div>
-
-<div style="clear:left;">
-</div>
-<br>
-
-<div class="container">
-    <div class="image">
-    <img style="float:left;padding-right:10px;padding-bottom:10px" 
-         align='middle'
-         src="images/speakers/Stefan_Williams.jpeg" alt="Image" width="150" height="150" />
-    </div>
-      <div class="text">
-        <h3>Tentative title: Navigation, mapping, planning, and control applied to autonomous marine systems</h3>
-        <strong>Stephan Williams</strong><br/>
-        <em>The University of Sydney</em>  <br/>
-        <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/stefan-williams.html ">Personal website</a>
-      </div>
-</div>
-
-<div style="clear:left;">
-</div>
-<br>
-
-<div class="container">
-    <div class="image">
-    <img style="float:left;padding-right:10px;padding-bottom:10px" 
-         align='middle'
-         src="images/speakers/Kazuya_Yoshida.jpg" alt="Image" width="150" height="150" />
-    </div>
-      <div class="text">
-        <h3>Terrestrial field tests for a modular and heterogeneous AI robot system
-for lunar exploration</h3>
-        <strong>Kazuya Yoshida</strong><br/>
-        <em>Tohoku University</em>  <br/>
-        <a href="http://www.astro.mech.tohoku.ac.jp/e/">Personal website</a> <br/>
-        <a href="https://srl-moonshot.mech.tohoku.ac.jp/index.en.html">Moonshot Program</a>
-          
       </div>
 </div>
 
