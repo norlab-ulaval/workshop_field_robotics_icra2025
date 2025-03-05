@@ -7,6 +7,11 @@
 - Camera-ready submission: May 1, 11:59 p.m. (Anywhere on Earth)
 - Workshop date: May 19, 2025
 
+The best submissions will be invited to submit a full-length paper in a Special Issue of the [IEEE Transactions on Field Robotics](https://www.ieee-ras.org/publications/t-fr).
+
+- Official Invitations sent: June 2025
+- Deadline of submission to IEEE T-FR: October 2025
+
 # Context
 <div style="text-align: justify">
 Field robotics tackles the problem of developing, deploying, and evaluating autonomous mobile systems in unstructured and often dynamic environments. Typical commercial applications are in agriculture, construction, mining, and forestry. The range of physical mediums is also very diversified: in the air, on the ground, underground, on the water, and underwater. These can be located on Earth, or on other celestial bodies (e.g., planets, moons, or asteroids). As such, field robotics works under wildly diverse and radically different assumptions than other areas of robotics, which tend to have well-defined working hypotheses. Therefore, this creates its own set of challenges. This workshop will thus offer the opportunity to present work and discuss how these unique challenges can be solved.
