@@ -216,7 +216,7 @@ Please visit the competition websites for more details:
  - [GOOSE 2D Semantic Segmentation Challenge](https://tinyurl.com/goose-2d-challenge)
  - [GOOSE 3D Semantic Segmentation Challenge](https://tinyurl.com/goose-3d-challenge)
 
-**SLAM Track**
+**SLAM Track:**
  - [SLAM Robotic Competition](https://purl.org/crl/slam)
 
 Any questions about the competition can be directed at [field-robotics-competition-icra-25@googlegroups.com](mailto:field-robotics-competition-icra-25@googlegroups.com?subject=Question%20regarding%20the%20Field%20Robotics%20Dataset%20Competitions).
