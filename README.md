@@ -212,12 +212,65 @@ The competitions are open to all field robotics researchers and practitioners.
 
 Please visit the competition websites for more details:
 
-**Vision Tracks:**
- - [GOOSE 2D Semantic Segmentation Challenge](https://tinyurl.com/goose-2d-challenge)
- - [GOOSE 3D Semantic Segmentation Challenge](https://tinyurl.com/goose-3d-challenge)
+<div class="container">
+    <div class="image">
+    <a href="https://tinyurl.com/goose-2d-challenge">
+    <img style="float:left; 
+                    border-radius: 20px; 
+                    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.3);"
+         align='middle'
+         src="images/competition/goose_2d_competition.gif" alt="Image" width="150" height="150" />
+    </a>
+    </div>
+      <div class="text" style="padding-top: 40px">
+        <strong style="padding-left: 30px">GOOSE 2D Semantic Segmentation Challenge</strong><br/>
+        <em style="padding-left: 30px">500€ gift voucher for the 1st place team</em><br/>
+        <a style="padding-left: 30px" href="https://tinyurl.com/goose-2d-challenge">Codabench website</a>
+      </div>
+</div>
+<div style="clear:left;">
+</div>
+<br>
 
-**SLAM Track:**
- - [SLAM Robotic Competition](https://purl.org/crl/slam)
+<div class="container">
+    <div class="image">
+    <a href="https://tinyurl.com/goose-3d-challenge">
+    <img style="float:left; 
+                    border-radius: 20px; 
+                    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.3);"
+         align='middle'
+         src="images/competition/goose_3d_competition.gif" alt="Image" width="150" height="150" />
+    </a>
+    </div>
+      <div class="text" style="padding-top: 40px">
+        <strong style="padding-left: 30px">GOOSE 3D Semantic Segmentation Challenge</strong><br/>
+        <em style="padding-left: 30px">500€ gift voucher for the 1st place team</em><br/>
+        <a style="padding-left: 30px" href="https://tinyurl.com/goose-3d-challenge">Codabench website</a>
+      </div>
+</div>
+<div style="clear:left;">
+</div>
+<br>
+
+<div class="container">
+    <div class="image">
+    <a href="https://purl.org/crl/slam">
+    <img style="float:left; 
+                    border-radius: 20px; 
+                    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.3);"
+         align='middle'
+         src="images/competition/slam_robotic_competition.jpg" alt="Image" width="150" height="150" />
+    </a>
+    </div>
+      <div class="text" style="padding-top: 40px">
+        <strong style="padding-left: 30px">SLAM Robotic Competition</strong><br/>
+        <em style="padding-left: 30px">500€ prize money for the 1st place team</em><br/>
+        <a style="padding-left: 30px" href="https://purl.org/crl/slam">Codabench website</a>
+      </div>
+</div>
+<div style="clear:left;">
+</div>
+<br>
 
 Any questions about the competition can be directed at [field-robotics-competition-icra-25@googlegroups.com](mailto:field-robotics-competition-icra-25@googlegroups.com?subject=Question%20regarding%20the%20Field%20Robotics%20Dataset%20Competitions).
 
