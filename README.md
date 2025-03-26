@@ -32,7 +32,7 @@ All invited speakers are confirmed.
 | 10:50- 11:20       | **Kazuya Yoshida** (Tohoku University)     | Invited talk #2 - **Terrestrial field tests for a modular and heterogeneous AI robot system for lunar exploration**                                                       |
 | 11:20- 11:50       | **Marco Hutter** (ETH Zurich)              | Invited talk #3 - **Robot Navigation with Common Sense**                                                      |
 | 11:50- 13:10       | -                                      | Lunch                                                                        |
-| 13:10- 14:10       | **Vijay Kumar** (University of Pennsylvania) | Keynote - _Tentative title:_ **The Future of Flying Robots**                                                            |
+| 13:10- 14:10       | **Vijay Kumar** (University of Pennsylvania) | Keynote - **Autonomous Flight in GPS-Denied Environments for Agriculture and Forestry**         |
 | 14:10- 14:40       | Panel                                  | Questions: What is the role of simulation, and data sets in field robotics? Should we keep an annual workshop or create a separate conference? Why do old laboratories stop doing field deployments? |
 | 14:40- 15:00       | Organizers                             | Result announcement for the dataset competition                               |
 | 15:00- 16:00       | -                                      | Coffee break and poster session                                               |
@@ -72,7 +72,7 @@ end speaker1-->
          src="images/speakers/Vijay_Kumar.jpg" alt="Image" width="150" height="150" />
     </div>
       <div class="text">
-        <h3>Tentative title: The Future of Flying Robots</h3>
+        <h3>Autonomous Flight in GPS-Denied Environments for Agriculture and Forestry</h3>
         <strong>Vijay Kumar</strong><br/>
         <em>University of Pennsylvania</em>  <br/>
         <a href="https://www.kumarrobotics.org/">Personal website</a>
