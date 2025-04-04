@@ -224,7 +224,7 @@ Please visit the competition websites for more details:
     </div>
       <div class="text" style="padding-top: 40px">
         <strong style="padding-left: 30px">GOOSE 2D Semantic Segmentation Challenge</strong><br/>
-        <em style="padding-left: 30px">500€ gift voucher for the 1st place team</em><br/>
+        <em style="padding-left: 30px">1000€ gift voucher for the 1st place team</em><br/>
         <a style="padding-left: 30px" href="https://tinyurl.com/goose-2d-challenge">Codabench website</a>
       </div>
 </div>
