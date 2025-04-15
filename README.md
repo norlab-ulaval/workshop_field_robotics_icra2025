@@ -3,7 +3,7 @@
 ## Important dates
 
 - Paper submission deadline: March 30, 2025, 11:59 p.m. (Anywhere on Earth)
-- Notification of acceptance: April 15, 2025
+- Notification of acceptance:  ~~April 15, 2025~~ April 17, 2025 (awaiting confirmation from the conference regarding poster board availability)
 - Camera-ready submission: May 1, 11:59 p.m. (Anywhere on Earth)
 - Workshop date: May 19, 2025
 
