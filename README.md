@@ -4,7 +4,7 @@
 
 - Paper submission deadline: March 30, 2025, 11:59 p.m. (Anywhere on Earth)
 - Notification of acceptance:  ~~April 15, 2025~~ April 17, 2025 (awaiting confirmation from the conference regarding poster board availability)
-- Camera-ready submission: May 1, 11:59 p.m. (Anywhere on Earth)
+- Camera-ready submission: June 2025
 - Workshop date: May 19, 2025
 
 The best submissions will be invited to submit a full-length paper in a Special Issue of the [IEEE Transactions on Field Robotics](https://www.ieee-ras.org/publications/t-fr).
