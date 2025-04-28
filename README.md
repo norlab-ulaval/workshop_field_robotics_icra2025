@@ -67,20 +67,6 @@ All invited speakers are confirmed.
 <br>
 end speaker1-->
 
-<div class="container">
-    <div class="image">
-    <img style="float:left;padding-right:10px;padding-bottom:10px" 
-         align='middle'
-         src="images/speakers/Vijay_Kumar.jpg" alt="Image" width="150" height="150" />
-    </div>
-      <div class="text">
-        <h3>Autonomous Flight in GPS-Denied Environments for Agriculture and Forestry</h3>
-        <strong>Vijay Kumar</strong><br/>
-        <em>University of Pennsylvania</em>  <br/>
-        <a href="https://www.kumarrobotics.org/">Personal website</a>
-      </div>
-</div>
-
 <div style="clear:left;">
 </div>
 <br>
@@ -172,6 +158,25 @@ for lunar exploration</h3>
         <a href="https://www.queensu.ca/offroad-robotics/people/joshua-marshall ">Personal website</a>
       </div>
 </div>
+
+<div style="clear:left;">
+</div>
+<br>
+
+<div class="container">
+    <div class="image">
+    <img style="float:left;padding-right:10px;padding-bottom:10px" 
+         align='middle'
+         src="images/speakers/example.jpg" alt="Image" width="150" height="150" />
+    </div>
+      <div class="text">
+        <h3>AI-powered robotics for marine applications</h3>
+        <strong>Gregory Dudek</strong><br/>
+        <em>McGill University</em>  <br/>
+        <a href="https://www.mcgill.ca/cim/dudek/">Personal website</a>
+      </div>
+</div>
+
 
 <div style="clear:left;">
 </div>
