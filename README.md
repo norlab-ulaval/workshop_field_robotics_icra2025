@@ -27,19 +27,20 @@ All invited speakers are confirmed.
 | **Time**                | **Speaker**                                | **Topic/title**                                                                 |
 |---------------------|----------------------------------------|------------------------------------------------------------------------------|
 | 8:30- 8:50         | Organizers                             | Welcome and opening remarks                                                  |
-| 8:50- 9:20         | **Robin Murphy** (Texas A&M University)     | Invited talk #1 - **30 Years of Robotics for Disasters**                                                       |
-| 9:20- 10:00        | Ten emerging researchers               | Spotlight talks #1 (3 min/pers)                                               |
-| 10:00- 10:50       | -                                      | Coffee break and poster session                                               |
-| 10:50- 11:20       | **Kazuya Yoshida** (Tohoku University)     | Invited talk #2 - **Terrestrial field tests for a modular and heterogeneous AI robot system for lunar exploration**                                                       |
-| 11:20- 11:50       | **Marco Hutter** (ETH Zurich)              | Invited talk #3 - **Robot Navigation with Common Sense**                                                      |
-| 11:50- 13:10       | -                                      | Lunch                                                                        |
-| 13:10- 14:10       | **Vijay Kumar** (University of Pennsylvania) | Keynote - **Autonomous Flight in GPS-Denied Environments for Agriculture and Forestry**         |
-| 14:10- 14:40       | Panel                                  | Questions: What is the role of simulation, and data sets in field robotics? Should we keep an annual workshop or create a separate conference? Why do old laboratories stop doing field deployments? |
-| 14:40- 15:00       | Organizers                             | Result announcement for the dataset competition                               |
-| 15:00- 16:00       | -                                      | Coffee break and poster session                                               |
-| 16:00- 16:30       | **Frank Dellaert** (Georgia Institute of Technology) | Invited talk #4 - **Precision Robotics for Agriculture 2.0**                                                    |
-| 16:30- 17:00       | **Josh Marshall** (Queen’s University)     | Invited talk #5 - **Digging Deep: Robotics for Mining in the 21st Century**                                                       |
-| 17:00- 17:30       | Organizers                             | Conclusion                                                                   |
+| 8:50- 9:20         | **Gregory Dudek** (McGill University)     | Invited talk #1 - **AI-powered robotics for marine applications.**                                                       |
+| 9:20- 09:40        | Five emerging researchers               | Spotlight talks #1 (3 min/pers)                                               |
+| 9:40- 10:40       | -                                      | Coffee break and poster session                                               |
+| 10:40- 11:10       | **Kazuya Yoshida** (Tohoku University)     | Invited talk #2 - **Terrestrial field tests for a modular and heterogeneous AI robot system for lunar exploration**                                                       |
+| 11:10- 11:40       | **Marco Hutter** (ETH Zurich)              | Invited talk #3 - **Robot Navigation with Common Sense**                                                      |
+| 11:40- 13:00       | -                                      | Lunch                                                                        |
+| 13:00- 14:00       | **Robin Murphy** (Texas A&M University) | Keynote - **30 Years of Robotics for Disasters**         |
+| 14:00- 14:30       | Panel                                  | Questions: What is the role of simulation, and data sets in field robotics? Should we keep an annual workshop or create a separate conference? Why do old laboratories stop doing field deployments? |
+| 14:30- 14:50       | Five emerging researchers               | Spotlight talks #2 (3 min/pers)                                               |
+| 14:50- 15:50       | -                                      | Coffee break and poster session                                               |
+| 15:50- 16:10       | Organizers                             | Result announcement for the dataset competition                               |
+| 16:10- 16:40       | **Frank Dellaert** (Georgia Institute of Technology) | Invited talk #4 - **Precision Robotics for Agriculture 2.0**                                                    |
+| 16:40- 17:10       | **Josh Marshall** (Queen’s University)     | Invited talk #5 - **Digging Deep: Robotics for Mining in the 21st Century**                                                       |
+| 17:10- 17:30       | Organizers                             | Conclusion                                                                   |
 | 18:00- 19:30       | -                              | ICRA Welcome Reception                                                                   |
 
 ***Note**: All times are in the local time zone of ICRA 2025 (Atlanta).
