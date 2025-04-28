@@ -28,7 +28,7 @@ All invited speakers are confirmed.
 |---------------------|----------------------------------------|------------------------------------------------------------------------------|
 | 8:30- 8:50         | Organizers                             | Welcome and opening remarks                                                  |
 | 8:50- 9:20         | **Gregory Dudek** (McGill University)     | Invited talk #1 - **AI-powered robotics for marine applications.**                                                       |
-| 9:20- 09:40        | Five emerging researchers               | Spotlight talks #1 (3 min/pers)                                               |
+| 9:20- 9:40        | Five emerging researchers               | Spotlight talks #1 (3 min/pers)                                               |
 | 9:40- 10:40       | -                                      | Coffee break and poster session                                               |
 | 10:40- 11:10       | **Kazuya Yoshida** (Tohoku University)     | Invited talk #2 - **Terrestrial field tests for a modular and heterogeneous AI robot system for lunar exploration**                                                       |
 | 11:10- 11:40       | **Marco Hutter** (ETH Zurich)              | Invited talk #3 - **Robot Navigation with Common Sense**                                                      |
