@@ -3,7 +3,8 @@
 ## Important dates
 
 - Paper submission deadline: March 30, 2025, 11:59 p.m. (Anywhere on Earth)
-- Notification of acceptance:  ~~April 15, 2025~~ April 17, 2025 (awaiting confirmation from the conference regarding poster board availability)
+- Poster notification of acceptance:  ~~April 15, 2025~~ April 17, 2025
+- Spotlight talks notification of acceptance: April 29, 2025
 - Camera-ready submission: June 2025
 - Workshop date: May 19, 2025
 
