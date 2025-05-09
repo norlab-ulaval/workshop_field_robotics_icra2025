@@ -170,7 +170,7 @@ for lunar exploration</h3>
     <div class="image">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
          align='middle'
-         src="images/speakers/example.jpg" alt="Image" width="150" height="150" />
+         src="images/speakers/Gregory_Dudeck.jpeg" alt="Image" width="150" height="150" />
     </div>
       <div class="text">
         <h3>AI-powered robotics for marine applications</h3>
