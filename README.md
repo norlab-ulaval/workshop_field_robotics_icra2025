@@ -1,5 +1,8 @@
 ![field robot image](images/banner_white.jpg)
 
+## Location
+[Omni Atlanta Hotel at Centennial Park](https://maps.app.goo.gl/MF6Mcd3NaB9tTBwc6), International Ballroom F
+
 ## Important dates
 
 - Paper submission deadline: March 30, 2025, 11:59 p.m. (Anywhere on Earth)
