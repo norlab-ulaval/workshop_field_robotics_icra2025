@@ -394,10 +394,6 @@ Any questions about the competition can be directed at [field-robotics-competiti
 <div style="clear:left;">
 </div>
 <br>
-
-<div style="clear:left;">
-</div>
-<br>
 <div class="container">
     <div class="image">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
