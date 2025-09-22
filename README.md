@@ -70,7 +70,7 @@ The workshop on Field Robotics 2025 is over and was a tremendous success! We rec
 The best submissions will be invited to submit a full-length paper in a Special Issue of the [IEEE Transactions on Field Robotics](https://www.ieee-ras.org/publications/t-fr).
 
 - Official Invitations sent: June 2025
-- Deadline of submission to IEEE T-FR: October 2025
+- Deadline of submission to IEEE T-FR: February 10, 2026
 
 # Context
 <div style="text-align: justify">
