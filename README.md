@@ -4,6 +4,10 @@
 
 The workshop on Field Robotics 2025 is over and was a tremendous success! We received many contributions, out of which the presented papers are listed in the following section, high-quality talks, and had estimated the attendance to more than 300 researchers. The workshop was the most crowded room of the day, demonstrating a clear need for field roboticists to gather and share experiences and lessons learned.
 
+<h3 style="text-align:center;">
+     <a href="https://norlab-ulaval.github.io/icra_workshop_field_robotics/">Link to the current edition</a>
+</h3>
+
 ## Presented papers
 
 |                                                                                                                                                                                                                                                                               |
