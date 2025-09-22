@@ -394,18 +394,6 @@ Any questions about the competition can be directed at [field-robotics-competiti
 <div style="clear:left;">
 </div>
 <br>
-<div class="container">
-    <div class="image">
-    <img style="float:left;padding-right:10px;padding-bottom:10px" 
-         align='middle'
-         src="images/organizers/philippe_giguere.webp" alt="Image" width="80" height="80" />
-    </div>
-      <div class="text">
-        <strong>Philippe Giguère</strong><br/>
-        <em>Université Laval</em> <br/>
-        <a href="https://norlab.ulaval.ca/people/p_giguere_fr/">Personal website</a>
-      </div>
-</div>
 
 <div style="clear:left;">
 </div>
